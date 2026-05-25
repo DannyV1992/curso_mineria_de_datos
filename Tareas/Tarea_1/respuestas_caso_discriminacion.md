@@ -1,7 +1,5 @@
 # Respuestas: ¿Discriminación en las admisiones de posgrado?
 
----
-
 ## Pregunta 1 — ¿Se sostiene la desventaja agregada de las mujeres al controlar por departamento?
 
 **No se sostiene.** Al desglosar los datos por departamento, el patrón se revierte o desaparece en casi todos los casos:
