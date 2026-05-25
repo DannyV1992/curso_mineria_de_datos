@@ -18,8 +18,6 @@ En 4 de los 6 departamentos las mujeres tienen una tasa de admisión **igual o s
 
 Este fenómeno se conoce como la **Paradoja de Simpson**: cuando se suman todos los grupos en un solo total, el resultado global puede contar una historia completamente diferente a la que cuentan los grupos por separado. Esto sucede porque el total mezcla grupos que no son comparables entre sí —en este caso, departamentos con tasas de admisión muy distintas—, y esa mezcla distorsiona el número final. La brecha de 15 puntos porcentuales no refleja un trato diferente dentro de los departamentos, sino que es consecuencia de que hombres y mujeres postularon en proporciones muy distintas a departamentos fáciles y difíciles.
 
----
-
 ## Pregunta 2 — ¿Qué hipótesis explican la brecha agregada usando la Tabla 2?
 
 La clave está en **a qué departamentos postularon hombres y mujeres**:
@@ -42,8 +40,6 @@ La clave está en **a qué departamentos postularon hombres y mujeres**:
 2. **Falta de orientación vocacional.** Sin información clara sobre tasas de admisión y relación demanda-cupo, las candidatas no podían optimizar sus decisiones de postulación de la misma forma.
 
 3. **Restricción de opciones percibidas.** Las barreras informales o la percepción de "no pertenecer" en ciertos campos pudo haber desviado a las mujeres hacia los departamentos que les resultaban más accesibles culturalmente, que resultaron ser los más saturados.
-
----
 
 ## Pregunta 3 — Intervenciones propuestas
 
