@@ -3,9 +3,7 @@
 
 ## Objetivo
 
-Demostrar competencias en la exploración visual de datos (EDA), la validación de supuestos
-estadísticos y la implementación de modelos de regresión lineal y logística utilizando Python,
-aplicando programación orientada a objetos con las clases del módulo `scripts/`.
+Demostrar competencias en la exploración visual de datos (EDA), la validación de supuestos estadísticos y la implementación de modelos de regresión lineal y logística utilizando Python, aplicando programación orientada a objetos con las clases del módulo `scripts/`.
 
 ---
 
