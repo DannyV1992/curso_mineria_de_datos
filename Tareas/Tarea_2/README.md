@@ -20,8 +20,8 @@ Tarea_2/
 │   ├── graficos_cualitativos.py            # Clase GraficosCualitativos
 │   ├── test_estadisticos.py                # Clase TestEstadisticos
 │   └── regresion.py                        # Clases RegresionLineal y RegresionLogistica
-├── EDA_Personalidad.ipynb                  # Análisis del dataset de personalidad
-├── EDA_Nutricion.ipynb                     # Análisis del dataset nutricional
+├── 1_EDA_Personalidad.ipynb                # Análisis del dataset de personalidad
+├── 2_EDA_Nutricion.ipynb                   # Análisis del dataset nutricional
 ├── Tarea_EDA.pdf                           # Enunciado original de la tarea
 └── README.md
 ```
@@ -30,7 +30,7 @@ Tarea_2/
 
 ## Descripción de los notebooks
 
-### `EDA_Personalidad.ipynb`
+### `1_EDA_Personalidad.ipynb`
 Análisis del dataset `personality_synthetic_dataset.csv` (perfiles psicológicos sintéticos).
 
 | Fase | Contenido |
@@ -39,7 +39,7 @@ Análisis del dataset `personality_synthetic_dataset.csv` (perfiles psicológico
 | **Fase 2 — Hipótesis** | Shapiro-Wilk + t de Student o Mann-Whitney U sobre `decision_speed` (Introvert vs Extrovert); MANOVA sobre `empathy`, `listening_skill`, `friendliness` |
 | **Fase 3 — Clasificación** | Regresión logística para predecir `leadership > 7.5` con predictores `public_speaking_comfort`, `stress_handling`, `organization`; odds ratios e interpretación |
 
-### `EDA_Nutricion.ipynb`
+### `2_EDA_Nutricion.ipynb`
 Análisis del dataset `daily_food_nutrition_dataset.csv` (composición nutricional diaria).
 
 | Fase | Contenido |
