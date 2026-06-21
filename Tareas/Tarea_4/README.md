@@ -16,7 +16,7 @@ Tarea_4/
 │   └── Banking_Dataset.csv                 # Campañas de marketing bancario
 ├── scripts/
 │   ├── __init__.py
-│   └── acm_analyzer.py                    # Clase ACMAnalyzer (prince)
+│   └── acm_analyzer.py                     # Clase ACMAnalyzer (prince)
 ├── 1_ACM_Vuelos.ipynb                      # ACM sobre dataset de vuelos (Partes 1-3)
 ├── 2_ACM_Banking.ipynb                     # ACM sobre dataset bancario (Partes 1-3)
 ├── 3_Comparacion.ipynb                     # Comparación y discusión (Parte 4)
