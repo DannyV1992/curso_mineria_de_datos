@@ -14,8 +14,12 @@ Tarea_4/
 ├── datos/
 │   ├── datos_vuelos_comerciales.csv        # Vuelos comerciales (aerolínea, ruta, clase, precio)
 │   └── Banking_Dataset.csv                 # Campañas de marketing bancario
-├── 1_ACM_Vuelos.ipynb                      # ACM sobre dataset de vuelos
-├── 2_ACM_Banking.ipynb                     # ACM sobre dataset bancario + comparación
+├── scripts/
+│   ├── __init__.py
+│   └── acm_analyzer.py                    # Clase ACMAnalyzer (prince)
+├── 1_ACM_Vuelos.ipynb                      # ACM sobre dataset de vuelos (Partes 1-3)
+├── 2_ACM_Banking.ipynb                     # ACM sobre dataset bancario (Partes 1-3)
+├── 3_Comparacion.ipynb                     # Comparación y discusión (Parte 4)
 ├── ACM.pdf                                 # Enunciado original
 └── README.md
 ```
@@ -34,14 +38,22 @@ ACM sobre el dataset de vuelos comerciales (Flight Price Prediction).
 | **Parte 3** | Biplot, mapa de modalidades, contribuciones, cos², perfiles por clase y aerolínea |
 
 ### `2_ACM_Banking.ipynb`
-ACM sobre el dataset de marketing bancario + comparación y discusión.
+ACM sobre el dataset de marketing bancario.
 
 | Sección | Contenido |
 |---------|-----------|
 | **Parte 1** | Carga, limpieza, selección de categóricas, discretización de age/balance |
 | **Parte 2** | Ajuste MCA, tabla de inercia, scree plot, elección de dimensiones |
 | **Parte 3** | Biplot, mapa de modalidades, contribuciones, cos², perfiles por suscripción (y) y trabajo |
-| **Parte 4** | Comparación entre datasets, ACM vs PCA, perspectiva de negocio |
+
+### `3_Comparacion.ipynb`
+Comparación y discusión (Parte 4).
+
+| Sección | Contenido |
+|---------|-----------|
+| **Punto 14** | Comparación entre datasets (asociaciones, dispersión, interpretabilidad) |
+| **Punto 15** | ACM vs PCA (diferencias, variables, casos de uso) |
+| **Punto 16** | Perspectiva de negocio (aerolínea y marketing bancario) |
 
 ---
 
@@ -62,4 +74,7 @@ cd Tareas/Tarea_4
 jupyter lab
 ```
 
-Los notebooks usan `prince.MCA` directamente (no requieren scripts auxiliares).
+Los notebooks importan la clase local con:
+```python
+from scripts import ACMAnalyzer
+```
