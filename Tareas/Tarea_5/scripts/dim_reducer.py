@@ -1,5 +1,7 @@
 import pandas as pd
 import plotly.express as px
+import plotly.graph_objects as go
+from plotly.subplots import make_subplots
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
@@ -53,21 +55,31 @@ class DimReducer:
 
     def plot_comparacion(self):
         # Bloque "6. Comparación" del notebook original
-        comparacion = pd.concat([
-            pd.DataFrame({"x": c[:, 0], "y": c[:, 1],
-                          self.color_col: self.color_label, "Metodo": nombre})
-            for nombre, c in [("ACP", self.coords_pca), ("t-SNE", self.coords_tsne), ("UMAP", self.coords_umap)]
-        ])
+        # Cada panel tiene ejes independientes — los rangos de ACP, t-SNE y UMAP son incomparables
+        metodos = [("ACP", self.coords_pca), ("t-SNE", self.coords_tsne), ("UMAP", self.coords_umap)]
+        categorias = self.color_label.unique() if self.color_label is not None else []
+        colores = px.colors.qualitative.Plotly
+        color_map = {cat: colores[i % len(colores)] for i, cat in enumerate(sorted(categorias))}
 
-        fig = px.scatter(
-            comparacion, x="x", y="y", color=self.color_col, facet_col="Metodo",
-            hover_data=[self.color_col, "Metodo"],
-            category_orders={"Metodo": ["ACP", "t-SNE", "UMAP"]},
-            opacity=0.65, width=1100, height=450,
-            title="Comparación ACP vs t-SNE vs UMAP",
-        )
-        fig.update_traces(marker=dict(size=4))
-        fig.for_each_annotation(lambda a: a.update(text=a.text.split("=")[-1]))
+        fig = make_subplots(rows=1, cols=3, subplot_titles=["ACP", "t-SNE", "UMAP"])
+
+        for col_idx, (nombre, coords) in enumerate(metodos, start=1):
+            for cat in sorted(categorias):
+                mask = self.color_label.values == cat
+                fig.add_trace(
+                    go.Scatter(
+                        x=coords[mask, 0], y=coords[mask, 1],
+                        mode="markers",
+                        marker=dict(size=4, color=color_map[cat], opacity=0.65),
+                        name=str(cat),
+                        legendgroup=str(cat),
+                        showlegend=(col_idx == 1),
+                        hovertemplate=f"{self.color_col}: {cat}<extra></extra>",
+                    ),
+                    row=1, col=col_idx,
+                )
+
+        fig.update_layout(title_text="Comparación ACP vs t-SNE vs UMAP", width=1200, height=450)
         fig.show()
 
     def plot_3d(self, coords, title):
