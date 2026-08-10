@@ -1,8 +1,6 @@
 # Tarea 6 — Aprendizaje No Supervisado: K-Means y Clustering Jerárquico
 
-**Curso:** Minería de Datos  
-**Institución:** Lead University · Carrera: Ciencia de Datos  
-**Fecha:** 7 de julio de 2026
+**Lead University · Minería de Datos · Métodos NO Supervisados**
 
 ---
 
@@ -33,7 +31,7 @@ Tarea_6/
 
 ## Descripción de notebooks
 
-### Notebook_1_Customers.ipynb — Segmentación de Clientes
+### 1_Customers.ipynb — Segmentación de Clientes
 Analiza el dataset `Customers.csv` (188 clientes de un centro comercial) con las variables: Age, Annual Income ($), Spending Score (1-100), Work Experience y Family Size.
 
 Secciones:
@@ -49,7 +47,7 @@ Secciones:
 10. Correlación entre variables
 11. Tabla resumen y conclusiones de negocio
 
-### Notebook_2_Wine.ipynb — Clustering de Vinos
+### 2_Wine.ipynb — Clustering de Vinos
 Analiza el dataset `wine-clustering.csv` (178 muestras, 13 propiedades fisicoquímicas) basado en el dataset UCI Wine de tres cultivares italianos.
 
 Secciones:
