@@ -6,7 +6,7 @@
 
 ## Objetivo
 
-Aplicar los algoritmos de agrupamiento K-Means y Clustering Jerárquico Aglomerativo sobre dos datasets con contextos distintos (negocio y científico), comparando los resultados mediante métricas de calidad y visualizaciones interpretativas.
+Aplicar los algoritmos de agrupamiento **K-Means** y **Clustering Jerárquico Aglomerativo** sobre dos datasets de contextos distintos (negocio y científico), determinando el número óptimo de clusters con el Método del Codo de Jambú, validando el corte con el dendrograma y comparando visualmente las asignaciones de cada algoritmo mediante componentes principales.
 
 ---
 
@@ -19,8 +19,8 @@ Tarea_6/
 │   └── wine-clustering.csv    # Dataset científico: propiedades fisicoquímicas de vinos
 ├── scripts/
 │   ├── __init__.py
-│   ├── clustering_jerarquico_utils.py  # Visualizaciones de clustering jerárquico (Clase 7)
-│   └── kmeans_utils.py                 # Utilidades de K-Means: codo, silueta, biplot (Clase 8)
+│   ├── clustering_jerarquico_utils.py  # Clustering jerárquico (Clase 7)
+│   └── kmeans_utils.py                 # K-Means: codo, silueta, bar_plot, radar, biplot (Clase 8)
 ├── 1_Customers.ipynb                # Análisis del dataset de clientes
 ├── 2_Wine.ipynb                     # Análisis del dataset de vinos
 ├── tarea_clustering.pdf             # Enunciado original de la tarea
@@ -31,43 +31,39 @@ Tarea_6/
 
 ## Descripción de notebooks
 
-### 1_Customers.ipynb — Segmentación de Clientes
-Analiza el dataset `Customers.csv` (188 clientes de un centro comercial) con las variables: Age, Annual Income ($), Spending Score (1-100), Work Experience y Family Size.
+Ambos notebooks siguen la misma estructura:
 
-Secciones:
-1. Carga y exploración inicial
-2. Preprocesamiento (imputación, outliers, estandarización)
-3. Método del Codo + Silueta para K óptimo (K-Means)
-4. K-Means con K óptimo + proyección PCA 2D
-5. Clustering Jerárquico: dendrogramas, cophenética, silueta vs k, corte Ward
-6. Comparación visual K-Means vs Jerárquico (PCA)
-7. Perfiles de clusters: heatmap, barras z, radar, líneas
-8. Distribución por variable: boxplots y violines
-9. Diagnóstico de silueta por cliente
-10. Correlación entre variables
-11. Tabla resumen y conclusiones de negocio
+| Sección | Punto del enunciado |
+|---|---|
+| 2. Carga y exploración inicial | 1 — Selección de datos |
+| 3. Preprocesamiento (nulos, atípicos, estandarización) | 2 — Preprocesamiento |
+| 4. Codo de Jambú y silueta | 3 — Número óptimo de clusters (K) |
+| 5. K-Means con el K óptimo | 4 — Aplicación de algoritmos |
+| 6. Clustering jerárquico (dendrogramas y corte) | 4 — Aplicación de algoritmos |
+| 7. Dispersión con PCA por algoritmo | 5 — Análisis y conclusiones visuales |
+| 8. Conclusiones | 5 — Análisis y conclusiones visuales |
 
-### 2_Wine.ipynb — Clustering de Vinos
-Analiza el dataset `wine-clustering.csv` (178 muestras, 13 propiedades fisicoquímicas) basado en el dataset UCI Wine de tres cultivares italianos.
+### 1_Customers.ipynb — Segmentación de clientes
 
-Secciones:
-1. Carga y exploración inicial
-2. Preprocesamiento (imputación, outliers, estandarización)
-3. Método del Codo + Silueta para K óptimo (K-Means)
-4. K-Means con K óptimo + proyecciones PCA 2D, PC1-PC3 y PC2-PC3
-5. Clustering Jerárquico: dendrogramas, cophenética, silueta vs k, corte Ward
-6. Comparación visual K-Means vs Jerárquico (PCA)
-7. Perfiles de clusters: heatmap, barras z, radar, líneas
-8. Distribución por variable: boxplots y violines (variables clave)
-9. Diagnóstico de silueta por muestra
-10. Correlación entre variables fisicoquímicas
-11. Tabla resumen y conclusiones enológicas
+`Customers.csv`: 2000 clientes de un centro comercial. Variables usadas: `Age`, `Annual Income ($)`, `Spending Score (1-100)`, `Work Experience` y `Family Size`.
+
+Resultado: el codo desciende suavemente sin quiebre nítido y la silueta maximiza en el extremo del rango, señales de que **no hay grupos naturalmente separados**. Se adopta k = 4 por el codo visual y por interpretabilidad comercial. La concordancia entre K-Means y Ward es baja (ARI ≈ 0.25) y las dos primeras componentes explican solo el 43.7 % de la varianza: las fronteras entre segmentos son difusas.
+
+### 2_Wine.ipynb — Clustering de vinos
+
+`wine-clustering.csv`: 178 muestras con 13 propiedades fisicoquímicas (dataset UCI Wine, tres cultivares italianos).
+
+Resultado: el codo marca un quiebre claro en **k = 3** y la silueta lo confirma de forma independiente, coincidiendo con los tres cultivares reales. Ambos algoritmos convergen a los mismos perfiles químicos (ARI ≈ 0.85) y las dos primeras componentes explican el 55.4 % de la varianza, suficiente para ver tres nubes bien separadas.
+
+El contraste entre ambos datasets es en sí mismo un resultado: con estructura real, el algoritmo elegido casi no altera el resultado; con estructura difusa, sí.
 
 ---
 
 ## Ejecución
 
 ### Dependencias
+
+Determinadas a partir de los imports reales de los notebooks y scripts:
 
 ```
 numpy
@@ -89,8 +85,8 @@ pip install numpy pandas matplotlib seaborn scipy scikit-learn
 Desde la carpeta `Tarea_6/`:
 
 ```bash
-jupyter notebook Notebook_1_Customers.ipynb
-jupyter notebook Notebook_2_Wine.ipynb
+jupyter notebook 1_Customers.ipynb
+jupyter notebook 2_Wine.ipynb
 ```
 
 > **Importante:** los notebooks deben ejecutarse desde la carpeta `Tarea_6/` para que las rutas relativas (`datos/`, `scripts/`) funcionen correctamente.
