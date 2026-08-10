@@ -1,0 +1,689 @@
+-- Clase 11
+
+
+1:35
+1 minuto 35 segundos
+La puerta cerrada. ¿Hola chicos, buenas noches, cómo están? Buenas noches bien profe, hola profe, buenas noches, buenas noches, chicos, chicas o k muchachos, les voy a crear la asistencia para que la marquemos de una vez.
+2:17
+2 minutos 17 segundos
+¿Eh, yo le iba a preguntar que a dónde se le sube el documento que se tenía que hacer con base a las 15 preguntas porque no dices como para sí, ya ya tengo eso sí, De hecho otro estudiante me me preguntó, y no lo tenían subido? Pues no lo tenía creado.
+2:39
+2 minutos 39 segundos
+Entonces ya te muestro o k chicos, ya les acabo de crear la asistencia del día de hoy, entonces si gustan la marcan y voy a presentar acá un segundito profe. Mira, es que estoy como un problemita con la plataforma. ¿No sé si usted me puede marcar la asistencia o k es quién me está hablando mathew, verdad? Mateo, sí.
+3:09
+3 minutos 9 segundos
+Igualmente yo profe Andrew o K o K Denme 1 segundo chicos, ya les ayudo con eso. Gracias muchachos, vamos a ver con lo que me preguntaba Jordan, yo les digo está en esa sección que dice Deep scam, las preguntas del caso están acá, el caso está aquí y la parte donde tienen que subir la entrega, el caso tiene que tienen que subirlo acá chicos, chicas.
+3:35
+3 minutos 35 segundos
+A mí se me había olvidado, De hecho Alejandro fue el que me me escribió por correo y ya lo tienen para para que lo puedan subir. De hecho muchachos, vamos a ver, esta es la última tarea del curso. Entonces lo más seguro ya es que esta semana se empiece a a calificar todas las demás tareas como ustedes vieron las primeras dos tareas que las califiqué.
+4:00
+4 minutos
+Básicamente a ninguno les puse una nota que fuese realmente mala o intermedia, o sea, si me entregaron el el trabajo y está bien hecho y el código está verdad, pues ustedes vieron que yo les puse una buena nota entonces no se preocupen por eso, o sea, mientras que que respondan lo que se les está preguntando, que hagan el caso, que bueno el caso, no las tareas y que apunten el código. Chicos, con eso es más que suficiente. Si ustedes ven no, no soy tan.
+4:30
+4 minutos 30 segundos
+Tan estricto en ese sentido, porque pues claramente muchas de estas tareas son muy parecidas. Entonces para para que no se asusten, va, para que no se asusten y que y que piensen que como no se les ha calificado todas las tareas y no saben cómo van, o sea, mientras la entreguen, mientras hagan el ejercicio, pues yo estoy contento y les voy a poner una buena nota siempre. O K.
+4:52
+4 minutos 52 segundos
+¿Entonces chicos, bueno, aquí tienen la tarea del caso y bueno, vamos a ver, me dijo Matthews y Andrew, verdad? ¿O K? Vamos a ver cómo estamos por aquí ahora que es Andrew y.
+5:23
+5 minutos 23 segundos
+Bueno, el de Andrew ya está y me hace falta el de aquí ya no, ya no lo veo. Math. Ahí está por fin ese o k perfecto.
+5:48
+5 minutos 48 segundos
+Y Andrew ya lo marqué solamente para o K si ya está hay llamar chicos, hola, buenas noches, vean, yo veo que eso está mi nombre está marcado en rojo porque es eso. ¿Ah, seguro, no sé, no sé, guardo, pero aquí te aquí te pongo Nomás Roberto o K bueno, nadie más chicos, no?
+6:17
+6 minutos 17 segundos
+¿Ah o K perfecto, listo, ya está y muchachos, voy a voy a presentarles acá un segundito voy a presentarles aquí? Creo que ya lo están. Están viendo la pantalla.
+6:56
+6 minutos 56 segundos
+Sí, profe, ya se ve la evolución de algoritmos. Ah o K perfecto, Ah o k perfecto. No hay problema. Charo, es de acuerdo, muchachos, bueno, antes de ver el contenido de la clase hoy, como les estaba mencionando, está ya la última tarea que bueno, la tarea pasada del caso de.
+7:26
+7 minutos 26 segundos
+De esta empresa que que vendía aceite mostaza. Esa ahora la última tarea que van a hacer hoy va a ser un poco diferente. Vamos a ver esta parte de la teoría que De hecho casi que ya todo lo hemos visto, solamente vamos a ver cómo se programa. Digamos que el hyper parameny tuning en algoritmo no supervisado. Ya les voy a explicar qué es Hyper parameny tuning.
+7:50
+7 minutos 50 segundos
+Y la idea de las de la sesión del día de hoy es que yo les voy a presentar el Código, la solución que yo tengo un caso que yo apliqué, que De hecho ya está en el campus virtual, pueden ir a abrirlo en cualquier momento. Igualmente, pues no vamos a repasar a la clase y en la segunda mitad de la clase chicos hay un campo en el campus, bueno, hay un link en el campus que dice como datos tarea ya ahorita se los muestro.
+8:18
+8 minutos 18 segundos
+¿Que la idea es que vayamos a trabajar en grupos? Bueno, digamos que en grupos de 3 personas más o menos sí un grupo de 3 sí, yo creo que 3 personas es más que suficiente. Entonces el día de hoy va a ser un poquito más colaborativo, básicamente como para tener también esa ese chance durante el curso, porque durante el curso solo hemos tenido, pues clases magistrales, tareas tradicionales, quieces y pues ahora les voy a.
+8:46
+8 minutos 46 segundos
+Les voy a les voy a pedir que trabajen en grupos de ustedes para que pues intercambien conocimiento, intercambien lo que han hecho durante el curso, que puedan aplicar las cosas que hemos visto, pero pues ya de una forma más grupal y bueno que ustedes mismos vayan intercambiando el conocimiento que hayan que hayan adquirido durante el curso o k entonces chicos igualmente ya ahorita les doy las instrucciones, cuando terminemos esta presentación les voy a dar las instrucciones de cómo van a van a trabajar.
+9:15
+9 minutos 15 segundos
+¿Y antes de esto, muchachos, cómo les fue con la tarea de bueno, De hecho les empecé a presentar, pero antes de eso, cómo les fue con la tarea? ¿No sé si si vieron el centro, De hecho el centro, yo sólo Subí en el en la carpeta que tenían, no sé cómo les fue con regresión lineal, que era el caso que más me me interesaba, muchachos, cómo les fue con eso, con con la tarea de la empresa?
+9:46
+9 minutos 46 segundos
+Todo estaba súper claro. O más bien tenían dudas, muchachos. Bueno, ahí vi que varios ya los entregaron. ¿Entonces cómo les fue profe? Por lo menos también ya lo que es la parte del Código. Y eso sí, sí me cuesta bastante o K el código o K.
+10:14
+10 minutos 14 segundos
+O K Bueno, el Código es lo de menos, más bien Scarlett, creo que la interpretación es lo que más vale, pero bueno, cualquier cosa volvemos a ver el código un segundito, volvemos a ver el código un segundito porque De hecho es un poco más más sencillo de lo que parece. No, no sé, bueno, Robert estaba en el en el en el centro, creo que también estaba Guillermo, me acuerdo que también creo que estaba Jordan, no, no recuerdo muy bien.
+10:44
+10 minutos 44 segundos
+¿Pero creo que no era tan complicado, verdad? Chicos, yo les les mostré el código y eran como un par de líneas de código, nada más. Y con eso resolvían por lo menos la parte de regresión ial que era bueno la tercera parte, que que que era la parte que más me interesaba que los volvieran. Creo que te digo que ese centro lo grabó y lo subió a la plataforma. Sí, correcto o K.
+11:08
+11 minutos 8 segundos
+Ese centro está, está grabado y también lo subí, no en la plataforma nueva, se lo subí en el Drive que que he estado subiendo las clases virtuales grabadas entonces. Bueno, pueden ir, ir a verlo chicos, pero todo bien con la tarea o alguien no pudo hacerla. ¿Qué conclusiones sacaron? Me interesa escucharlos. ¿Cómo les fue?
+11:37
+11 minutos 37 segundos
+O hay más preguntas que respuestas. Sí, Roberto, profesor. Bueno, yo la la estuve trabajando junto con con Jordan, la estuvimos trabajando, la pudimos, creo que sacar de buena manera y este con la parte que vimos en el centro, pues quedó mucho más claro de lo que de lo que habíamos podido avanzar YY nada más.
+12:05
+12 minutos 5 segundos
+¿Presentársela en en cuanto a la sí, enviársela, verdad? Para que usted la vea y nos diga qué, cómo, cómo o sea, si si nos fue bien o no y esa profesor como lo habíamos hablado, me parece documento en P D F + 1 Poyton con el con el Código por ahí sí. Correcto, Roberto, correcto.
+12:35
+12 minutos 35 segundos
+¿O K muchachos, quieren que volvamos a ver un toquecillo regreso lineal ahorita en unos 20 minutos cómo se programa esto? Sí, pero que sería algo bueno, bueno, pero yo lo entendí YY pero me gustaría como repasar un poco más o k o k hagámosle un toquecillo muchachos, bueno, igual vamos a tener una clase de regresión lineal, bueno, regresión logística como tal voy a voy a abrir un toque el colap.
+13:04
+13 minutos 4 segundos
+Voy a abrir un notebook y voy a subir en este notebook lo que tenían que hacer, entonces bueno aquí voy a cancelar esta sesión para ver acá administrar sesiones, tenía 1 abierto, entonces voy a cerrarla. Vamos a ver whine QUALITY Start que vamos a ver el día de hoy, entonces voy a cerrarlo un segundito y listo.
+13:34
+13 minutos 34 segundos
+Pero que si abro nuevo esto, si abro nuevo esto ahora si me va a permitir abrir, entonces voy a subir un momento los datos de cómo es que se llamaba. Creo que era este. Entonces muchachos, voy a importar Pandas, Speedy, voy a importar numpa.
+14:06
+14 minutos 6 segundos
+O K entonces voy a ver si esto lo puedo hacer un poco más grande. ¿Creo que ahí ahora sí se ve, verdad? Entonces vamos a ver si ya se cargó la data no se ha cargado o no se cargó. Ahora sí, entonces los datos van a importar los datos, muchachos, y van a ver que esta parte de.
+14:31
+14 minutos 31 segundos
+El código es súper sencillo, entonces voy a copiar los accesos DF punto g y pedir punto para que me venga. Ahí está. Entonces muchachos, estos usaron los datos, los datos, ustedes tenían básicamente tenían la fecha que eso les pedí que hicieran una serie de tiempo.
+14:57
+14 minutos 57 segundos
+Que las series de tiempo pues es es es el objeto, pues la la variable objetivo a través del tiempo, eso es una serie de tiempo. Y les pido, les pido que analicen la demanda del producto de acuerdo a estas variables predictoras que es el precio de la compañía, el precio del producto de la propia compañía, el precio de los competidores, el ingreso per cápita y el gasto de la promoción o k entonces.
+15:25
+15 minutos 25 segundos
+Yo les pedí que se hicieran una especie de regresión lineal, que es la regresión lineal. Podían buscar ustedes acá en en en Internet De hecho y aquí hay 1, que a mí me gusta bastante, que es de Vera, CAM, Vera, CAM que es, pero creo que perdón, creo que era este código.
+15:54
+15 minutos 54 segundos
+Vamos a ver cuál era era este. Igualmente pueden buscarlo en cualquier, en cualquier, en cualquier parte, les van a les va a salir exactamente lo mismo y tenían que aplicar una relación lineal con esta librería que se llama Stan Mortals. Básicamente esa es como la mejor, básicamente la mejor, la mejor librería para hacer.
+16:21
+16 minutos 21 segundos
+Regreso lineal y poder ver los resultados aquí, pues claramente me pide un x que ese x tiene que ser todos los datos, pero solamente las variables predictoras que es el precio de la compañía, la competencia, el ingreso per cápita, que ya vamos a ver que hay algo interesante en ese ingreso per cápita y el gasto de la promoción o k.
+
+
+16:50
+16 minutos 50 segundos
+Y el YY el valor de y es el DF, pero solamente con la demanda, porque la demanda es la variable a predecir o la variable objetivo que nosotros necesitamos explicar o k entonces bueno, esto se puede poner punto valius y listo. Entonces bueno, aquí esto se entrena y solamente con estas líneas de código chicos, vamos a ver, dice. Bueno, esto parece que no les gustó el punto valius, ahora sí.
+17:21
+17 minutos 21 segundos
+Entonces muchachos, este era el resultado que yo andaba buscando que ustedes hicieran en la última parte de la tarea, vamos a ver si puedo, puedo abrir un momento, estaba en la sesión 9 caso estudio preguntas para el caso estudio este PDF y el PDF les salía a ustedes.
+17:49
+17 minutos 49 segundos
+Bueno, quisieran una relación lineal, pero con Logaritmos, Ahorita vamos a hacerlo con Logaritmos, este es con los datos normales, sin ningún tipo de transformación, ya ahorita lo vamos a ver, pero me interesa también que vamos a esta parte sin transformación, porque pues la interpretación de cada 1 de sus coeficientes es bastante interesante, entonces bueno, primero que todo les dicen que hagan un modelo de regresión lineal, esto que ya está por acá.
+18:14
+18 minutos 14 segundos
+Y les pido que que reporten los coeficientes y el R cuadrado o k entonces es r cuadrado un 67%. Les explico. ¿Bueno, qué significa 67%? Que en otras palabras, es la inercia explicada o en otras palabras, también la capacidad que tiene las variables con el precio de la compañía, el precio de los competidores, el ingreso per cápita y el gasto de publicidad. ¿Cuánto porcentaje explicaron esas cuatro variables para poder llegar a una explicación?
+18:44
+18 minutos 44 segundos
+Casi que total de la variable objetivo, la variable precil, que en este caso era la demanda del producto. Entonces muchachos, ustedes aquí nada más tienen que poner bueno el reporte de los coeficientes aquí, De hecho les dice, les pregunto que De hecho el reporte de los coeficientes es es lo mismo que la interpretación del beta 1 y el beta dos que les estoy, les estoy pidiendo muchachos que interpretemos el beta 1, que esa es la necesidad del precio propio de la compañía.
+19:10
+19 minutos 10 segundos
+¿Y el precio del competidor? Pero esto aún no se puede sacar porque se necesita pasarlo. Logaritmos, primero. ¿Pero antes de resolver esa pregunta, chicos, vamos a interpretar esta parte los coeficientes? ¿Recuerdan ustedes muchachos, que antes de interpretar los coeficientes teníamos que ver el F Estadistic con la probabilidad del F Estadistic?
+19:35
+19 minutos 35 segundos
+Si ese valor era inferior a 0.05 eso quería decir que el modelo era bueno. El modelo me sirve a mí para explicar algo. Para el caso de nosotros, ese valor si lo ven bueno, claramente está está en notación científica, está completamente resumida, pero ese valor es demasiado cercano a cero, es decir, es inferior a 0.05 por mucho. Y el R cuadrado también es muy importante porque el R cuadrado como les estaba mencionando antes.
+20:03
+20 minutos 3 segundos
+Es la capacidad predictiva que tiene el modelo o o en otras palabras, la capacidad que tienen las variables predictoras, que son estas que acabamos de meter al modelo. ¿Cuál es la capacidad que tienen estas variables para poder explicar la variable objetivo o la variable? ¿Predecir que para el caso de nosotros es la demanda o K entonces un 67? Si me preguntan a mí es bastante bueno, es una, es una, es un porcentaje bastante bueno porque inclusive mente solamente con cuatro variables.
+20:32
+20 minutos 32 segundos
+Logramos explicar casi que el 70% de la variable ha de ese resultado. Básicamente eso es lo que quiere decir. Y otro y otro coeficiente muy importante, chicos que hay que ver acá es el P vale verdad el valor de p ese valor de p, al igual que el eje estadístico tiene que ser, tiene que ser perdón inferior a 0.05. ¿Si ustedes ven acá, cuál variable no cumple ese criterio? ¿El ingreso per cápita?
+21:02
+21 minutos 2 segundos
+Cierto, el ingreso per cápita es mayor a 0.05 para este caso es 0.06, entonces es mayor en otros palabros. Lo que me está diciendo es que esta variable, el ingreso per cápita no es suficiente o no cumple con el criterio para poder llegar a una conclusión. ¿Entonces tenemos que quitarle el análisis, entonces los muchachos, ahora sí, qué significa todo esto? ¿Por ejemplo, si ven acá?
+21:29
+21 minutos 29 segundos
+Hay que interpretar primero que todo lo positivo y lo negativo, los coeficientes. ¿Si nosotros, por ejemplo, subimos el precio, qué significa que claramente vamos a vender menos? Porque por supuesto, hay empresas competidoras que tienen el mismo producto y que básicamente se convierte como si fuese un producto. ¿Cómo se llama su sustituto? Es como si fuese un producto sustituto, porque ya existen otros productos en el mercado.
+21:59
+21 minutos 59 segundos
+Entonces pues si ustedes compran no sé pan del Musmani, pero musmani empieza a subir de precio, pues cual van a comprar tal vez de alguna otra marca, cierto, entonces bueno, eso es eso, es parte del producto sustituto, claramente hay que analizar que están elástico. Inelástico es ese producto ya ahorita vamos a responder eso para poder decir mira es que sí afecta mucho subir el precio o no afecta tanto subir el precio o K Roberto, sí profesor consulta se podría ver como un commodity.
+22:30
+22 minutos 30 segundos
+¿O un commodity? Pues es que depende. ¿Me refiero al producto, que si se podría ver ese producto como un commodity, que es algo que se consigue en el mercado a granel o inclusive bueno y sin marca, verdad? Ese creo que más bien ellos ellos, o sea el producto de las semillas, si es un commodity.
+22:53
+22 minutos 53 segundos
+Es un es un commodity, pero pero creo que el producto de ellos ya es un producto completamente envasado YY con su marca hecha. De hecho, sí, De hecho era de ahí. ¿Cambia el asunto? Claro, sí, cambia el asunto. Industry creo que era así que se llamaba para ver industry es este. Entonces vean que acá bueno es una empresa de la India.
+23:23
+23 minutos 23 segundos
+¿Y era era esta marca? Bueno, no sé si era bueno esta, no sé si este, este era otro producto, pero pero el aceite de mostaza era este, era este producto. Entonces ya ya tenía su marca propia. De hecho, la marca competía con dos tipos de de estrategia. No sé si recuerdan que por un lado competía con la estrategia de calidad del producto, que era bastante buena la calidad, pero no era una marca grande y Por otro lado.
+23:50
+23 minutos 50 segundos
+¿El precio o a la política? El precio siempre el padre, el fundador, que era el que trataba de bueno, digamos, el padre era el fundador, pero el hijo, el fundador, era el que trataba de de ver si si si competían por medio alguna otra estrategia del precio. Pero el padre siempre decía que lo ideal era competir y aproximadamente con un precio de venta, no sé, un 6% por debajo de la competencia, un 10%. No recuerdo muy bien que hacía el caso.
+24:18
+24 minutos 18 segundos
+¿Pero esas eran las dos estrategias, tanto en calidad como en precio que competía la empresa entonces, bueno, decía el hijo, mira, es que si ya competimos por calidad, que nuestro producto es bastante, bastante bueno, y la gente tiene esa percepción de que el producto es bastante bueno, por qué no podemos subirle de precio si la calidad justifica ese precio? Bastante bueno, entonces, bueno, eso era 1 de los dilemas que tenía, tenía el fundador y el y el hijo.
+24:47
+24 minutos 47 segundos
+Entonces bueno, vamos a ver que se lo denoca. Entonces es más si un producto final que un commodoy. T Roberto, entonces muchachos, hay que ver claramente si el producto es inelástico o es elástico, De hecho el producto es inelástico ya ya luego lo vamos a ver. Bueno, digamos que casi la la elasticidad de precio de demanda era era casi unitaria, era cercano a 1.
+25:12
+25 minutos 12 segundos
+De hecho, eso tienen, es parte de lo que tienen que contestar ustedes. Eso significaba que una variación en el precio no afectaba tanto tanto la demanda. En otras palabras, la percepción que tenían los clientes con respecto a este producto era bastante buena en el sentido de que no eran tan sensibles al precio. ¿Si esta empresa subía el precio como tal, entonces bueno, de alguna forma eso era 1 de los indicios que justificaba el hecho de subir el precio, verdad?
+25:43
+25 minutos 43 segundos
+Que el producto no era tan pero tan elástico, porque entre más elastesía quería decir que por una variación pequeña en el resultado del precio, eso significaba que la demanda se iba a ir. Se iba a venir para abajo claramente. Pero bueno, el caso de de esta de esta empresa pues no era así. Entonces bueno, aquí dice chicos, que por ejemplo, si esta empresa por ejemplo sube un dólar al precio del del producto.
+26:11
+26 minutos 11 segundos
+Eso significaba que iban a vender menos 136 unidades o K bueno, 137 para redondearlo. Eso significaba entonces, por ejemplo, si yo lo subía de 65 a 66, por ejemplo, eso quería. Quería decir que al mes yo iba a vender menos menos 136 unidades. Eso es lo que me quería decir. Y por un lado y Por otro lado, la competencia, el precio de los competidores.
+26:41
+26 minutos 41 segundos
+Si ellos subían, el precio más bien era algo positivo para nosotros. Eso significa que si ellos subían en un punto o en un dólar, por ejemplo, vamos a ver el precio de la competencia. Bueno, aquí ellos tenían un 65, si ellos lo subían de un 60 y 9 a 1 70, eso significaba que nosotros como tal íbamos a vender 117 unidades más. Eso es lo que quiere decir. Pero claro, muchachos, si ustedes ven aquí la magnitud, parece ser.
+27:11
+27 minutos 11 segundos
+¿Que la competencia puede subir más el precio que nosotros? Claramente la competencia. ¿Si ustedes leyeron el caso, la competencia son productos, son empresas enormes, son empresas grandes, entonces ellos ya tienen una marca aún más estructurada, una marca más con una percepción más grande en el mercado que que la empresa que representa este fundador, verdad?
+
+
+27:34
+27 minutos 34 segundos
+Y bueno, la parte del ingreso per cápita, como le estaba mencionando, no puede ser interpretado porque supera el umbral que es 0.05. Pero si este cero punto, si este SP vale, hubiese sido inferior a 0.05. Eso quiere decir que el ingreso per cápita nos dice que entre más ganan las personas, parece ser que ellos empiezan a consumir marcas aún más grandes. Algo así como no sé como.
+28:01
+28 minutos 1 segundo
+¿Imagínense ustedes que que empiezan de ganar de 3000 dólares a 6000 dólares, entonces van a comprar seguramente marcas más reconocidas? ¿Seguramente van a pasar de de un de un de un Hyundai a un Toyota, verdad? Entonces, bueno, es básicamente como eso lo que nos quiere decir, pero no es tan, no es tan significativo. Entonces eso no podemos, no podemos afirmarlo básicamente. ¿Y el gasto de la promoción?
+28:27
+28 minutos 27 segundos
+Si lo ven acá también es positivo. Eso quiere decir que por cada dólar que nosotros subamos, por cada dolar que nosotros subamos gasto la publicidad del producto. Eso quiere decir que vamos a vender 7 unidades cada vez que nosotros le metamos un dolar más o k eso nos decía cuando estamos analizando solamente los datos sin transformarlos, si yo por ejemplo hago esto mismo.
+28:55
+28 minutos 55 segundos
+Y antes, tanto el X como el y yo lo paso a una transformación logarítmica. Por ejemplo, bueno, aquí ya he hecho colab, me lo me lo autocompleta y corro esto. Vean que es exactamente lo mismo. Vean que es exactamente lo mismo en 67.5, pero los coeficientes son más interpretativos, ya tenemos en el 1 al 1.
+29:25
+29 minutos 25 segundos
+Eso quiere decir que si yo subo por ejemplo el precio en un porcentaje, literalmente casi que me baja un porcentaje. Okay, eso eso. Básicamente chicos, vean que esto lo que me está dando es como si fuese ya ahora sí la elasticidad, el precio, entonces vean acá elasticidad, elasticidad, precio de mando, vean acá elasticidad, precio de mando.
+29:56
+29 minutos 56 segundos
+Ven acá dice que el cambio en el precio causa un cambio muy grande en la cantidad que se perdón que se hizo ahora sí dice, el cambio en el precio causa un cambio muy grande en la cantidad que la gente compra. Dice que es mayor a 1. Pasa con cosas de de pasa con cosas de lujo.
+30:18
+30 minutos 18 segundos
+O ropa, en otras palabras, si la demanda es muy elástica o es elástica, quiere decir que los los bueno, los compradores, la clientela son sensibles al precio, dice. ¿Acá demanda inelástica un cambio en el precio casi no afecta lo que la gente compra menor a 1, pasa con cosas necesarias como medicinas o comida claramente, o sea entre bueno, eso ya ustedes lo vieron en economía, verdad? Pero las medicinas como tal, o sea, por ejemplo, el que la cura a enfermedades muy.
+30:48
+30 minutos 48 segundos
+Muy, muy necesarias curarlas, por ejemplo, no sé, el COVID, el cáncer, lo que sea, pues aunque suba el precio de la medicina siempre va a haber demanda porque es algo esencial. Entonces son productos inelásticos y Por otro lado, la demanda unitaria. El cambio en el precio es igual al cambio de la cantidad que se compra Por otro lado o igual, siendo esa demanda igual o cercano a 1 bueno.
+31:13
+31 minutos 13 segundos
+Entonces aquí se cambian, el precio es igual al cambio de la cantidad que se compra. ¿Bueno, entonces aquí chicos, por eso es que les mencionaba casi es unitaria esta demanda del precio? El producto que representa esta empresa es básicamente casi que unitaria. O sea, si yo subo un porcentaje del precio, me baja un porcentaje también de la demanda, entonces esta esto es esto, es lo que ustedes tienen que hacer.
+31:42
+31 minutos 42 segundos
+¿Cuando se les pide que interprete el beta 1 en la necesidad de precio de demanda y también el beta dos, que es el precio del competidor del competidor sí, y el 14 dice qué papel tiene el ingreso per cápita y el gasto promocional en el modelo? Ya ustedes vieron que el ingreso per cápita no tenía ningún papel, o sea, es es mayor a 0.05. ¿Entonces quiere decir que el papel o la magnitud aquí dice que son son marginalmente relevantes para la empresa dado su magnitud sí o no? Bueno, el ingreso per cápita no.
+32:13
+32 minutos 13 segundos
+¿No son relevantes? ¿Bueno, el ingreso de per cápita no es relevante, pero el gasto promocional, claro que sí, el gasto promocional aquí lo aquí se ve claramente, chicos, aquí ya ya ya el tema de las necesidades de de una inversión, no, no tienen la misma interpretación, pero aquí bueno, aquí no debería de interpretarse, debería más bien interpretarse aquí como les estaba mencionando entonces? Pues para poder responder esa pregunta ya usted dice, mira, es que bueno, en el ingreso per cápita.
+32:43
+32 minutos 43 segundos
+No tiene, no tiene relevancia porque el umbral es mayor a 0.05, pero el gasto de la promoción sí porque es 0.0 0, 0, o sea cumple con el umbral es menor a 0.05 y ya ustedes interpretan, bueno, lo que la lo que les acabo de mencionar, ese 7 que quiere decir, bueno, casi que que 8 a como si lo estuviésemos redondeando verdad o k chicos, dudas, preguntas.
+33:12
+33 minutos 12 segundos
+Yo sí, pero es un poquito más atrás en la parte del F Stadistic es que está a cuatro ajá. ¿A la creo que tiene euler y no sé qué, pero es que usted dijo otro número como que si fuera menor que cero, por qué cuál el de F Stadistic?
+33:39
+33 minutos 39 segundos
+Es que el F Estadistic vamos a ver yo te digo segundito acá dame un momento que estoy está abriendo otra página o K voy a compartirte 1 este este este F Estadistic lo es este que estoy señalando, ese tiene que ser igual a menor a 0.05 si es esta notación es una notación científica.
+34:09
+34 minutos 9 segundos
+¿O sea, si vos lo pones acá, qué te quiere decir esto? O sea, si lo ponemos, no sé a vamos a poner aquí a jamin que que nos diga que qué valor es. Vas a ver que el resultado es 0.000000 lo es. Entonces él solamente te lo resume, pero ya se sabe que es un valor, realmente se acaba no cero y es menor a 0.05.
+34:46
+34 minutos 46 segundos
+Entonces este sí cumple. De hecho, este valor siempre va a estar muy correlacionado a este a la r cuadrado en el sentido que claramente. O sea, si las variables son explicativas y explican mayor parte del problema, eso va a decir que también el F estadístico es relevante. Es decir, que el modelo sí trata de resoperarlo. No sirve para algo, pero van a haber momentos en donde tal vez el R cuadrado va a representar solamente un 2%.
+35:13
+35 minutos 13 segundos
+Entonces ahora seguramente el F Estadístico va a ser mayor a 0.05 y en otras palabras, quiere decir que el modelo no es suficientemente digamos bueno si digamos que estadísticamente no es capaz para poder explicar el resultado o la o la varia del objetivo que estamos tratando de resolver. No, sí, eso sí, lo entiendo. Lo que no entendía es porque usted decía otro resultado y yo veía un cuatro ahí, pero ella ya ya entendí Ah o K.
+
+
+35:43
+35 minutos 43 segundos
+No, este valor es es menor a es casi se dejan los sí, sí, sí, sí o k chicos, dudas, preguntas muchachos, yo es que creo que solamente la regresión lineal no hemos visto en el curso, entonces por eso es que que quería volver a repasar eso. No sé si ya lo han visto en algún otro curso en estadística no sé, pero ya lo que es se lo seas muchachos.
+36:11
+36 minutos 11 segundos
+Tipscamp, yo creo que esos ya ustedes sí pueden resolver. Entonces estamos claros, sí o k perfecto, listo, muchachos. Entonces ahora sí vamos a hablar sobre la evolución de algoritmos de Clostring o K entonces voy a explicarles acá un concepto nuevo, que esto lo vamos a ver o ustedes lo van a ver en el siguiente curso.
+36:41
+36 minutos 41 segundos
+¿Algo que se llama Hyper para mini tuning o básicamente voy a volver a voy a volver a que se llama Hyper es este chicos hyper parameter tuning?
+37:22
+37 minutos 22 segundos
+Así es como así es como se escribe, se lo estaba componiendo un toquecillo. Esto que se llama Hyper para mini Tun y muchachos, nace más sobre modelos supervisados, sobre modelos no supervisados, casi que no, casi, que no se habla. Sin embargo, siempre es necesario tunear un modelo que significa esto, muchachos, por ejemplo.
+37:46
+37 minutos 46 segundos
+Cuando estamos tratando de pronosticar algo, ya sea por ejemplo, variables cuantitativas o variables cualitativas, por ejemplo, el precio de una casa, la acción de una empresa, los dividendos de una compañía, no sé el tipo de cambio o lo que sea. Nosotros siempre vamos a tener diferentes tipos de modelos. Por ejemplo, puede ser un super vector machine. Yo sé que ustedes no han escuchado sobre estos modelos. Puede ser un random Forest.
+38:16
+38 minutos 16 segundos
+Puede ser, no sé, un decision three. Pueden tener varios tipos de modelos. ¿Sin embargo, la pregunta aquí es bueno, cuál de todos esos 3 modelos deberíamos utilizar? ¿Claramente? ¿La respuesta debería ser aquel que me de una curva así mejor verdad? Por ejemplo, si si el super vector machine me ha dado un 0.9 vamos a decir de una currasis global, nada más, el rando Forest me da un 0.95, por ejemplo.
+38:45
+38 minutos 45 segundos
+Y el decision two me da un 0.80. Eso quiere decir que nosotros deberíamos de quedarnos con el rando Force. ¿Por qué? Porque el resultado o el a curre así es mayor que los otros dos modelos. Sin embargo, chicos, todos estos modelos necesitan un entrenamiento real, un entrenamiento serio. ¿Qué significa eso, por ejemplo, para el rando Force o digamos para el decision three?
+39:12
+39 minutos 12 segundos
+Hay diferentes parámetros que nosotros necesitamos jugar con él para saber cuál es la mejor versión de ese decision three. Por ejemplo, chicos para el K Means Bueno camins vimos que no, pero el clústering jerárquico y el Deep scam. Si recuerdan una de las métricas más importantes era la la la la métrica distancia era la función de distancia en donde teníamos Manhattan, en donde teníamos.
+39:39
+39 minutos 39 segundos
+Distancia colidiana, en donde tendríamos cheviché. Tenemos varios tipos de distancias y algunos otros algoritmos, como por ejemplo las distancias si deberían de ser uniformes o deberían de ser basadas en en el peso de de cada una de ellas. Todo ese, ese, ese montón de hiperparámetros de parámetros. Nosotros necesitamos saber cuál es la mejor configuración que llega a tener un algoritmo para poder clusterizar de la mejor manera.
+40:06
+40 minutos 6 segundos
+¿O K entonces por qué es que esto se inventó? ¿O porque esto nace más de algoritmos supervisados? Porque claramente tenemos métricas más estandarizadas, como por ejemplo la curasi, que eso quiere decir de la curasi global en la curasi por clase, por ejemplo. Bueno, si yo estoy tratando de predecir una clase sobre transacción fraudulenta o no fraudulenta, yo voy a tener bueno en general.
+40:30
+40 minutos 30 segundos
+¿Cuánto es el porcentaje que detecta el algoritmo correctamente? Puede hacer un 90%, pero también yo necesito saber cuál es la cura cura. Sí que hay que existe por clase, por ejemplo. ¿Bueno, cuántas de las transacciones fraudulentas? ¿El algoritmo me detectó que que sí fueron fraudulentas y Por otro lado, de las clases que no fueron fraudulentas, cuánto fue el porcentaje que el algoritmo aceptó que no fueran fraudulentas entonces?
+40:56
+40 minutos 56 segundos
+Todas esas métricas, tanto la curvas y global. De hecho hay otras más que se llaman el F 1 score que ustedes van a ver en otros cursos. ¿El área bajo la curva? No sé, ahí hay demasiado sensibilidad trucoal entre otros. ¿Entonces porque es que el hyper para mini tuning existe más o aprendizaje supervisado? Es precisamente por eso, porque hay hay demasiadas métricas de evaluación que ya existen en esos algoritmos que hacen bastante fácil.
+41:26
+41 minutos 26 segundos
+¿La selección de cuál algoritmo de nosotros deberíamos utilizar entonces? Claramente, muchachos, si por ejemplo, el decision tree tiene, no sé, 1000 configuraciones distintas, 1000 configuraciones distintas, eso quiere decir que nosotros tenemos que saber o deberíamos de averiguar cuál es la configuración óptima, que me mejora los resultados, que me mejora la corrosis global, que me mejora la precisión por clase, que me mejora el área bajo la curva.
+41:52
+41 minutos 52 segundos
+Osea independientemente de cual sea la métrica que ustedes anden buscando la configuración de los hiperparámetros siempre ustedes van a tener que hacerlo. Es decir, es la es la forma más seria de llegar a un entrenamiento real de un algoritmo o k entonces muchachos, eso es hyper paramenytoing vamos a hacer algo exactamente o algo muy parecido con aprendizaje no supervisado, pero.
+42:20
+42 minutos 20 segundos
+Lastimosamente las librerías que existen, bueno, básicamente no existen eso, eso es lo que quería. Más bien eso era lo que quería decir para aprendizaje supervisado. Si existen librerías para hacer hyper paramentumning como gree search y rannum search, que ahorita les explico esos conceptos, pero dentro de aprendizaje no supervisado no existen. ¿Por qué no existen muchachos? Porque.
+42:45
+42 minutos 45 segundos
+Lo que se llama curas global y todas estas que yo les menciono, no existen en aprendizajes no supervisado. Es decir, yo no sé si un cluster tiene una, tiene una curas y real o una curas y preciso o todo lo que sea. ¿Por qué? Porque eso es completamente subjetivo. O K nosotros no sabemos o nosotros no tenemos una métrica real para decir mira cuál es el mejor cluster, así como lo tiene esto como lo tenemos acá.
+43:15
+43 minutos 15 segundos
+¿Qué es lo mejor que podemos hacer utilizar, por ejemplo, el índice siluet o algún otra métrica, como por ejemplo la distancia interclosel y la distancia intracluster? Que eso resumido era aquella, aquella, aquel teorema de Fitch que era el valor. J no sé si recuerdan de eso. Entonces esas son las únicas métricas que nosotros podemos buscar para saber si la si el proceso.
+43:40
+43 minutos 40 segundos
+Que llevó el algoritmo y la configuración que tuvo el algoritmo. Por ejemplo, un clóset y jerárquico que utilizó una media en Manhattan, utilizó un un criterio de enlace, por ejemplo, salto promedio. Fue mejor, solamente lo vamos a conocer a partir de ahí. Sin embargo, ese proceso no es un proceso estandarizado, muchachos, no es un proceso que normalmente se digamos se explote o o o se practique tanto.
+44:09
+44 minutos 9 segundos
+Y es la única forma que nosotros tenemos para poder averiguar si si sí o o básicamente no funciona el algoritmo o k básicamente, entonces muchachos, bajo esa introducción, ahora sí vamos a ver evaluación de algoritmos de clustering. Primero que todo algunas, algunas partes fundamentales, dice acá, antes de aplicar un clustering, es fundamental preguntarse si los datos realmente poseen una estructura agrupable o no.
+44:36
+44 minutos 36 segundos
+Esto ya nosotros lo hemos visto. Cómo lo oímos con el EFSE, perdón, con el el valor de de Hopkins. Si recuerdan, vimos un test de Hawkins que que que básicamente lo que nos decía era si los datos eran agrupables o no, eran agrupables o básicamente seguían una estructura natural, o más bien era producto a la sal o tenían una distribución completamente uniforme. Eso es lo que quería decir el índice Hawkins. Y dicen, no todos los conjuntos de datos contienen grupos naturales. Bueno, lo que les estaba mencionando.
+
+
+45:05
+45 minutos 5 segundos
+En muchos casos, los datos pueden tener distribuciones de forma aleatorias o uniformes o sin separación de clases o separaciones claras. En otras palabras, no existen clusteres dentro del dataset. Eso es lo que quiere decir aquí, dice. Si signo, este análisis previo de los algoritmos de clustering producirán clusteres artificiales, aunque en realidad no existan patrones significativos. Es decir, ustedes están diciendo Mira que hay un cluster donde no existe ningún cluster o k.
+45:32
+45 minutos 32 segundos
+Y eso significa, literalmente, meter las patas cuando estamos hablando de productos defectuosos, si estamos hablando de marketing, si estamos hablando de Finanzas, etcétera, etcétera. O K por esta razón, evaluar la closibilidad luz te habilidad, perdón de un problema es una etapa importante dentro de un análisis exploratorio. Básicamente, aplicar un EFE estadístico aplicaron un un gráfico de BAT siempre es importantísimo.
+45:58
+45 minutos 58 segundos
+Este proceso permite terminar si tiene sentido aplicar el agrupamiento o no. Deberíamos de aplicar ningún no deberíamos de aplicar nada aquí. Realizar pruebas de cluserabilidad también tiene entradas prácticas, dice acá reduce el riesgo de construir modelos inútiles. Se están evitando el tiempo decir, mira, un cliente me está pidiendo que cree un cluster, yo avanzo y avanzo y avanzo. Yo no sé cuánta computación y tiempo dedique a esa clusterización.
+46:27
+46 minutos 27 segundos
+¿El tiempo de Codear bueno que ahora es más sencillo porque porque tenemos e a I generativa, pero antes cuando no teníamos e a I Generativa, pues esto, llegar a 1 a 1 buena programación era todo mundo, verdad? ¿Entonces bueno, aquí ya de una vez antes de meternos en código ya nosotros podríamos decir vale la pena o no vale la pena o K?
+46:48
+46 minutos 48 segundos
+Dice acá evita desperdizar recursos computacionales. Lo que les estaba mencionando permite validar que los patrones encontrados son reales y no productos del azahara que se dan cuenta, si si si es significativo el cluster o no y dice mejora la interpretación y la confiaría de los resultados, dice. Siguiente punto en consecuencia, antes de ejecutar un algoritmo como K means, Deep scan o closering jerárquico, es recomendable aplicar técnicas que evalúen si los datos presentan evidencias de agrupamiento, por ejemplo.
+47:17
+47 minutos 17 segundos
+¿Métodos estadísticos como Hopkins, VAT, Cap Estadístico o análisis visual mediante p, c, a y umap dice Yo van a responder una pregunta clave, los datos contienen grupos naturales o cualquier closer obtenido va a ser completamente artificial? Randomizado no nos dice absolutamente nada, o sea, básicamente nos sirve para eso. O K chicos, esto ya nosotros lo vimos, creo que no lo voy a repasar el índice de Hopkins.
+47:46
+47 minutos 46 segundos
+Se recuerdan el índice Hopkins tenía su interpretación, lo que hacía era crear dos tipos de datos artificiales, los dos eran completamente artificiales, y aquel valor de este Hopkins que era mayor a 0.05 era bueno. Digamos que un resultado intermedio, pero entre más cercano a 1. Eso quería decir que los datos seguían estructuras agrupar, es decir, teníamos grupos naturales y por ende podíamos clusterizar los datos.
+48:15
+48 minutos 15 segundos
+Si es igual a 0.05 o es inferior a 0.05, eso quiere decir que no vale la pena clusterizar o k solamente recuerden eso, entonces bueno, ustedes tienen esto datoriales puntos, oratorios. Bueno, básicamente eso era el proceso. ¿Cómo llegamos al al índice Hope? No sé si lo recuerdan bien, necesitamos repasarlo de nuevo, si si estamos bien chicos o necesitamos repasarlo.
+48:44
+48 minutos 44 segundos
+No se recuerdan, no se recuerdan, pueden re pasarle un tirito no sería mal a o k de acuerdo, entonces muchachos, recuerden que el índice Hopkins va a ser bueno, digamos que tiene 1, segundo, o K, Jordi o K de acuerdo chicos, el índice Hopkins, como les digo muchachos, va averiguar si tenemos estructura natural, es agrupar o no o k.
+49:13
+49 minutos 13 segundos
+Para eso se generan, digamos que 3 pasos. El primer paso, primero que todo es generar datos aleatorios. Nosotros tenemos los datos reales, vean que aquí tenemos dos casos del caso número 1 y el caso número dos, y el primer caso era generar puntos aleatorios de esos puntos aleatorios. ¿Lo que yo tengo que medir es la distancia que existen de estos puntos a estos puntos aleatorios, verdad?
+49:40
+49 minutos 40 segundos
+Eh, agress, perdón, disculpe, disculpe chicos, aquí aquí ya les estoy, perdón, agress, borren eso aquí lo que hay que hacer es medir las distancias que existen de todos esos puntos con sus centroides, en otras palabras, calcular la distancia interclase e interclass, eso es lo que hay que hacer y luego sumar todas las distancias para ambos casos para los datos reales y los datos aleatorios de forma independiente.
+50:07
+50 minutos 7 segundos
+O K eso quiere decir que yo voy a por un lado me todas las distancias interclass que existen en esos cuatro closeres. Yo sumo todas esas distancias de todos esos equis me van a dar un resultado completamente independiente y luego de forma independiente, igual de esos datos 100% eleatorios hago exactamente el mismo proceso, calculo la distancia de todos esos puntos y voy a tener una suma real. Voy a tener una suma final de todas esas distancias.
+50:37
+50 minutos 37 segundos
+¿Que ustedes aquí lo están viendo? Las distancias de x representan los datos reales y las distancias de y representan los datos oratorios. Entonces, si lo ven, las distancias de los datos reales es inferior a los datos de los puntos oratorios que otras palabras quiere decir.
+51:01
+51 minutos 1 segundo
+Que los datos reales tienen puntos más compactos, las distancias son menores. Por eso es que esa suma de esas distancias es menor que la de los puntos aleatorios. Y luego se crea ese índice Hopkins, que el índice Hopkins era las distancias de los puntos aleatorios y aparte el dominador. Eso iba a ser una división en la parte denominador, iba a ser las distancias de los puntos reales más las distancias de los puntos aleatorios. Entonces vean aquí.
+51:29
+51 minutos 29 segundos
+Como esto empieza a jugar aquí un papel bastante importante, en donde nos interesa que este sea el valor más grande y este, que es el valor de los datos reales, que son los representados de los datos reales, sea lo menor posible. Entonces cuando sacamos esta fórmula nos da este resultado. En otras palabras, el 0.91 es muy cercano a 1 si lo ven tanto estadísticamente como visualmente.
+51:59
+51 minutos 59 segundos
+Los datos se ven clusterizables o K eso con el hacking estadístico con datos que si son clusterizables para el caso número de muchachos juega exactamente lo mismo. Calculo todas las distancias, tanto x como y sacó las distancias. Hago la fórmula y me sale un valor cercano a 0.05 perdón, 0.5.
+52:29
+52 minutos 29 segundos
+Entonces aquí también estadísticamente como visualmente se ve que los datos no siguen en ninguna estructura clusterizar eso es muy complicado, no deberíamos de hacer, no deberíamos de perder el tiempo que bueno, ese era el stef estadístico y aquí muchachos, viene la parte bueno. Aquí viene siendo la novedad de esta clase que es el índice suret. Creo que el índice suret sí lo hemos, no lo hemos visto para poder medir.
+52:58
+52 minutos 58 segundos
+La efectividad de la clusterización solamente la hemos visto para poder saber cuántos cuántos clústeres tomar, YY creo que un gráfico por ahí lo vimos y ese es el gráfico que quiero que que veamos. Entonces muchachos dice, acá presten atención aquí que esto es lo más importante de la clase de hoy, dice acá el sellote score o el o el o el o el o el el score de siluete.
+53:23
+53 minutos 23 segundos
+Es una de las métricas más populares. ¿Por qué? ¿Porque mide lo siguiente, qué tan cerca está un punto de su propio clúster y qué tan lejos está de otros clústeres? ¿A qué se les, a qué se les, a qué se les como, que a a qué se le asimila esos muchachos? A qué es parecido al valor J verdad, porque el valor J si recuerden si recuerdan medida la distancia intracluster.
+53:52
+53 minutos 52 segundos
+Y también medida la distancia interclass combinada esas dos distancias. Entonces ese índice J o el teorema de Fisher, lo que les decía era que entre más grande se hace valor mejor para nosotros. ¿Entonces esto qué es lo primero que es? ¿Qué tan cerca está un punto de su propio clúster, es un muchacho, es esto es distancia intracluster y qué tan lejanos está el Trust clúster? Eso significaba.
+54:22
+54 minutos 22 segundos
+Distancia intercloster disculparán la letra muchachos, pero bueno, entonces combina las dos tipos de métricas que a nosotros nos interesa, o k bueno, y aquí la fórmula pues es importante, aquí bueno, la A qué significa distancia promedio, el mismo cluster distancia intercloster y el B significa la distancia promedio al cluster vecino más cercano igual a B.
+54:51
+54 minutos 51 segundos
+Y bueno, aquí el dominador es el máximo entre a YB claramente chicos. Imagínense que B por ejemplo es más grande que perdón, que a es más grande que B entonces este índice de su LED es súper desastroso, así que no sirve o k, pero visualmente muchachos, el índice de su LED se ve mejor así visualmente. Entonces vamos a ir por partes, primero que todo vean este gráfico acá.
+55:20
+55 minutos 20 segundos
+Este es 1 P c A seguramente tenemos diferentes clusters, el cluster 1, 2, 3, 0, 4 y 5, es decir, tenemos 6 clusters, 6 clusters chicos. ¿Cuál es el cluster que parece que está mejor conformado? ¿Cuál dicen ustedes? ¿Y el 1 correcto? El 1 se ve que está muy lejos del 5.
+55:50
+55 minutos 50 segundos
+Del cuatro, el dos del cero y el 3. Cierto, está bastante bien y aquí muchachos, ahora sí pasémonos a este gráfico. ¿Cómo se lee esto, muchachos? Vean que acá tenemos el cluster Label en el eje y básicamente nos dice cuál es el clúster que tenemos por acá, el 5, el cuatro, el 3, el dos, el 1 y el cero.
+56:19
+56 minutos 19 segundos
+¿Y esto muchachos, cómo se lee? Se lee como si fuese un gráfico de barras muy parecido a un gráfico de barras horizontales. Entre más grande sea este gráfico de barras, es decir, entre más grande sea ese índice. Si luete que vean que va de menos 1, bueno, este va a menos 1. Yo les voy a explicar por qué esto es negativo. Va entre c entre menos 01 0.1 hasta 1.
+56:46
+56 minutos 46 segundos
+¿Llámese 1 como si fuese un 100% verdad? ¿Entonces entre más grande sea este valor, quiere decir que esos closeres están bien conformados aquí? Pues hay un umbral que ya el mismo algoritmo o la misma métrica, el silot ya lo recomienda. ¿Que eso quiere decir? Bueno, que si si sobrepasa este índice que yo estoy poniendo acá.
+57:13
+57 minutos 13 segundos
+¿Quiere decir que la que la métrica o o o la clausterización que llegó a este algoritmo es buena? Eso es lo que nos quiere decir o K ya ahorita les explico porque esto no se ve como si fuese un cuadrado así, sino más bien va como si fuese un cuchillo. ¿Lo ven acá? Esto parece como un cuchillo, no sé si lo ven, parece más bien un cuchillo que un gráfico de barras. Ya les voy a explicar qué es eso, todo tiene interpretación, muchachos no crean que que que que por ser así no tiene interpretación, todo tiene interpretación.
+57:42
+57 minutos 42 segundos
+Pero como lo dijo Scarlett, este es el mejor clúster y se gráfica acá, por eso es que este clúster número 1 es el que tiene más índices, su LED y sobrepasa a los demás. ¿Cuál es el que le sigue, muchachos, cuál creen ustedes? ¿Bueno, el 1 es el mejor clúster, cuál es el que le sigue? Que deberían ser como de los mejores clústeres, el dos, dos.
+58:11
+58 minutos 11 segundos
+¿El dos correcto, el dos, el dos se ve bastante bien, verdad? Si nos vamos al índice is luet, pues se ve, pero qué es lo que pasa, muchachos, aquí ahora sí es donde podemos explicar por qué este gráfico tiene como como una forma de un cuchillo. Muchachos, este gráfico viene siendo algo así, ven acá vamos a ver si me logro a dar a explicar este punto, porque es importante.
+
+
+1:03:55
+1 hora 3 minutos 55 segundos
+En otras palabras, muchachos, puede ser que también, aunque no estén de forma negativa, puede ser que acá esto que estoy dibujando aquí existan individuos que estén mal clasificados o que estén confundidos, confundidos y mal clasificados. Me dice lo mismo que deberían de pertenecer a otro clúster.
+1:04:21
+1 hora 4 minutos 21 segundos
+Pero el algoritmo los asignó en alguno otro o K profe. A partir de qué rango más o menos sería como considerado yo 111 mal índice de Siluet. Mira, yo te diría que, por ejemplo, a partir de un 0.4 ya deberíamos de preocuparnos.
+1:04:54
+1 hora 4 minutos 54 segundos
+Un 0.4 deberíamos de preocuparnos que por ejemplo el 1 si lo ven el 1 casi que osea De hecho ninguno es menor a 0.4 creo que este individuo que está aquí, que apenas dibuja, es mayor inclusive mente a 0.6 entonces bueno, clara, sí, y esos son outliers además, sí, pues sí, más que sí, sí, digamos está muy lejos del centroide, sí, pero aún así.
+1:05:23
+1 hora 5 minutos 23 segundos
+Claramente se ve que está más cerca de ese clóset que de todos ellos. ¿Verdad que todos estos si fuese este el outlier que mencionas, verdad? Entonces, aunque seamos outlier igual ese outlier está aquí, está más cerca el centro y del del del del Clóset número 1 que de todos los demás.
+1:05:50
+1 hora 5 minutos 50 segundos
+Profe y en el caso del cuatro y el 5 digamos que están muy pegados igual que el cero y el y el 3 se podría como 1 podría usar otra métrica para ver si vale la pena, o sea para ver la calidad del agrupamiento, a ver si es necesario hacer como esos dos clusters o con solo asarse en lo del Silvet 1 está bien, es que el siluet es es que el siluet es es muy parecido al al al J como te he mencionado y el J es.
+1:06:21
+1 hora 6 minutos 21 segundos
+Las dos métricas casi que por defecto que utilizó un algoritmo para poder saber si está haciendo un buen trabajo o no. Si si la distancia intra es es es menor y la distancia intra es mayor. Eso quiere decir que el índice J va a ser bastante bueno. Entonces bueno, el índice suled casi que es la métrica, o sea, como te les decía antes Jimena, ese es muy es un punto muy importante. Lo que sucede es que el hyper para mini tuning se utiliza demasiado en aprendizaje supervisado.
+1:06:50
+1 hora 6 minutos 50 segundos
+Porque ya tenemos métricas definidas como la curvas y global, la cursis for class, el F 1 score, entre otras muchas otras métricas. Y ya están 100% definidas, pero para aprendizaje supervisado, pero para aprendizaje no supervisado, que es esto que estamos trabajando, no hay métricas que nos ayuden para eso, o por lo menos no hay métricas. Digamos que por defecto que podemos utilizar de forma transversal para todos los algoritmos, no. O sea, lo único que podemos hacer es.
+1:07:19
+1 hora 7 minutos 19 segundos
+Tratar de utilizar por lo menos alguna métrica, como el índice suret, que no es perfecta, sí que no es perfecta para poder medir esas cosas. ¿Ahora bien, chicos, alguno de ustedes me podría decir, mira profe, pero es que qué pasaría si yo si yo 1, el 5 y el cuatro? Pues perfectamente podría ser eso. O sea, puede ser que más bien este co de yambu.
+1:07:45
+1 hora 7 minutos 45 segundos
+Más bien había sugerido solamente tirar 5, no sé, tal vez 1, 2, 3 y 4 closeres y más bien este este usuario utilizó 6, entonces puede ser que más bien unamos el 5 y el cuatro y el cero y el 3 y van a ver chicos que seguramente este al fusionarse y el 3 y el cero al fusionarse también ese índice suled van a ver que seguramente va a sobrepasar al 0.5.
+1:08:14
+1 hora 8 minutos 14 segundos
+¿Entonces, podría ser algo que 1 evalúe ahora ahora otra cosa, algún estudiante de otro curso? ¿Me preguntó una vez profe, pero bueno, por un lado, como yo sé cuál es ese cluster, perdón, cuál es ese individuo que está mal clasificado? Si estuviésemos hablando de personas, tal vez podría ignorarla, pero por ejemplo, si estamos hablando de empresas como si fuesen ventas be two be, que una empresa le vende a otra.
+1:08:42
+1 hora 8 minutos 42 segundos
+Y a mí me interesa saber quién es ese cliente y dónde debería yo ubicarlo, porque dependiendo de cómo yo lo ubique, yo le aplico estrategias de política de precios. Le aplico diferentes campañas de marketing para atraer ese cliente, o sea, dónde debería aplicarlo claramente la asignación correcta de esos clústers deberíamos de hacerlo nosotros. Entonces muchachos, es muy importante identificar cuáles son esos individuos.
+1:09:10
+1 hora 9 minutos 10 segundos
+A bueno, típico, no perdón, esos individuos mal clasificados para para hacer dos tipos de cosas, ya sea para identificarlos y utilizar tal vez algún otro algoritmo de clusterización para para ver si lo si, lo si lo clusteriza de una forma correcta la segunda vez o el mismo cluster con más iteraciones. No sé, ahí ya depende de cada 1.
+1:09:32
+1 hora 9 minutos 32 segundos
+Puede ser que yo, yo, yo siga esta estrategia para ver si ahora sí podemos clusterizarlo de forma correcta o puede ser que entremos de forma manual y nosotros digamos, mira, es que voy a poner alguna cosa ese pricesmart de San Ramón vamos a decir que es ese cliente. Entonces nosotros decimos, pero es que pricesmart de San Ramón se comporta muy similar a un supermercado tradicional, pero es pricesmart, se hace una marca.
+1:09:59
+1 hora 9 minutos 59 segundos
+Entonces, aunque no nos compre forma voluminosa o o no tiene digamos una estrategia, o no tiene un comportamiento igual a la pricesmart, digamos de San José, que debería ser más grande, movámoslo, por ejemplo, el cluster de Pricesmart de San José. ¿Por qué? Porque al fin y al cabo es la misma marca, es el mismo, es la misma de la misma empresa entonces.
+
+
+1:10:20
+1 hora 10 minutos 20 segundos
+Hagámoslo de esa forma. Entonces ahí entra, muchachos, claramente, pues la decisión gerencial, la decisión de ustedes como analistas, la decisión ya manual criterio experto, porque hay cosas que ya el algoritmo no puede resolver. Entonces necesita contexto del negocio, necesita un contexto más profundo. O k queda claro, esos muchachos, sí, pero sí, o k súper chicos.
+1:10:53
+1 hora 10 minutos 53 segundos
+Bueno, por ejemplo, vean ese otro índice de celular, vean aquí cuántos individuos hay mal clasificados, por ejemplo, vean en el 5 hay individuos que seguramente deberían de pertenecer al 7, otros a 6 y otros al 8. Vean aquí todos estos que están en negativo, bueno, el 3, el dos, el 1 parece que solo el 7 parece ser que es el mejor cluster. Bueno, este claramente porque solamente tiene dos vecinos, que es el 6 y el 5, los demás ya no.
+1:11:25
+1 hora 11 minutos 25 segundos
+Vamos a ver, por ejemplo, el cuatro debería ser otro, pero el cuatro no tiene tantos individuos, por eso es que se ve así, pero el cuatro que está muy cercano al 5 al 6 inclusive mente aquí bueno, este ya es un poquito más difícil de clusterizar este este dato parece ser que es más difícil de clusterizar, por eso es que se ven tantos individuos mal clasificados y se lo ven chicos.
+1:11:50
+1 hora 11 minutos 50 segundos
+El índice suret creo que el mayor es 0.6, es el mejor individuo que está clasificado 0.6. ¿Si recuerdan el anterior, el mejor es casi que cercano, no? E entonces bueno, vean que eso son dos casos, dos casos del índice suret muchachos, bueno, el BAT.
+1:12:13
+1 hora 12 minutos 13 segundos
+También se utiliza para saber si bueno, aquí aquí hay un hay un cambio de tema bastante fuerte, creo. No debería hacerlo, pero el but si recuerdan era muy similar al objetivo de saber al mismo objetivo que tenía el índice de Hopkins, que era saber.
+1:12:30
+1 hora 12 minutos 30 segundos
+Si los datos eran clusterizables o no, si recuerdan, bueno, aquellos que tengan unos manchones en en la parte diagonal de la matriz, eso significaba que sí había tendencia a clusterizar versus aquellos que no tenían ningún manchón en sus partes laterales, en sus partes diagonales, por ejemplo, acá aquí no hay ningún indicio de clusterizar. Entonces, bueno, eso es lo que nos decía el vat.
+1:12:55
+1 hora 12 minutos 55 segundos
+Y algunos objetos visuales que nos permiten a nosotros identificar dónde hay datos clusterizables o no. Por ejemplo, bueno, el de Endograma, que es parte del cluster jerárquico. Aquí se ve claramente dónde se forman 3 clusters distintos, el P c a, por ejemplo, que también nos funciona muy bien para eso, y algunas otras herramientas de visualización o K bueno, aquí dice. Calibración de modelos de crusterización. ¿Qué significa? ¿Qué significa calibración de modelos?
+1:13:23
+1 hora 13 minutos 23 segundos
+Es lo mismo, muchachos que decir. Hyper para mini tuning, calibración de modelos es la parte bueno la traducción de español del Hyper para mini tuning que hyper para mini tuning debería ser como tuneo hiper parámetros básicamente, pero digamos que calibración de modelos entiende más o k.
+1:13:41
+1 hora 13 minutos 41 segundos
+Aquí, dice, la calibración en CLÚSTERING permite ajustar parámetros como número de clústeres, métrica de distancia y densidad para obtener grupos compactos, separables e interpretables. En otras palabras, un mejor índice suret, un mejor, un mejor índice Fisher, una mejor distancia interclass e interclass, etcétera. O K dice acá.
+1:14:06
+1 hora 14 minutos 6 segundos
+Sin una buena calibración, los algoritmos pueden generar clusteres artificiales o mezclar platones distintos produciendo resultados engañosos. En otras palabras, puede ser que el algoritmo no llegue a la mejor versión de los clusteres. No llega a encontrar correctamente los clusters. Eso es lo que quiere decir, dice acá, además de calibrar.
+1:14:26
+1 hora 14 minutos 26 segundos
+¿Mejora la estabilidad y confiabilidad de los resultados? ¿Pues claramente es obvio, verdad? Eso. De hecho, lo que intentamos hacer es buscar una confiabilidad de los confiabilidad de los resultados y que sean que tengan la mejor, el mejor índice, digamos, de Clarización. Eso es lo que se lo que estamos intentando hacer.
+1:14:45
+1 hora 14 minutos 45 segundos
+Aquí es ayudando a detectar estructuras reales en los datos. Bueno, siempre es lo que estamos buscando. Y dice acá, esto es fundamental en aplicaciones como segmentación de clientes, medicina o detección de fraudes, donde decisiones incorrectas pueden tener alto impacto. Bueno, bueno, utilizar mal un cliente, mandarle un una campaña de marketing en un cliente que que que no debería ser la correcta, pues es un problema.
+1:15:10
+1 hora 15 minutos 10 segundos
+El fraude también es un problema. El tema de de, por ejemplo, de de manufactura es un problema. ¿O sea, imagínense ustedes que que están tratando de vamos a decir que es un que es un dispositivo médico, verdad? Y si ustedes no detectan, por ejemplo, un out layer dentro de una crusterización, quiere decir que se les fuera un producto efectuoso y ese producto efectuoso dependiendo si es una prótesis, si es.
+1:15:37
+1 hora 15 minutos 37 segundos
+Si es algún otro medicamento tiene un defecto fábrica lo que sea, pues imagínense el el el impacto tan tan horrible que puede generar eso. Entonces una una closerización correcta es fundamental pues para decisiones del negocio o K entonces muchachos, vean como se ve el código De hecho este código. Ahora antes de de de revisar esta presentación, me di cuenta que es que hay algo que está mal, que está mal, muchachos, estamos utilizando camins.
+1:16:07
+1 hora 16 minutos 7 segundos
+Y vean que tenemos distancias. Se recuerdan que K means no tenía ningún hiperparámetro de distancia, todo era distancia cludiana, entonces de aquí ya estamos mal. Bueno, esto no lo vamos a ignorar. ¿Esto ignora amor o k bueno muchachos, cómo llegamos a una calibración de de clusters o o o 1 calibración de un modelo? Vean, estamos utilizando K means estoy utilizando el índice silvet para poder medir.
+1:16:37
+1 hora 16 minutos 37 segundos
+Que también el el camins puede funcionar o no. Aquí tengo yo los datos, tengo las diferentes parámetros distancias que esta. Como les digo, este no va, pero si yo tengo por ejemplo, cuántos k utilizar, qué tipo de algoritmo si ya sea el CAMINS Plus Plus o el random.
+1:16:59
+1 hora 16 minutos 59 segundos
+Le pongo aquí por default, una máxima iteración de 300, pero puedo puede hacer una lista, por ejemplo, 300 400 hasta 1500, Digamos 1500 iteraciones que él busque cuál es la cantidad de iteraciones que puede ser mejor para nuestro modelo. ¿Bueno, y aquí por último pongo un random, que esto solamente es una semilla, tal vez este cuál es el que el que quería detunarse mejor este que es el init, verdad? El init y el K.
+1:17:27
+1 hora 17 minutos 27 segundos
+Deberían ser aquellos que deberíamos de probar de una forma más exhaustiva. ¿Entonces bueno, aquí chicos inicializo con un mejor score igual a menos 1, eso quiere decir que bueno lo inicializo en cero en menos 1 o lo que sea la mejor en configuración que esto va a ser un string o hacer o va a hacer un texto en donde me va a decir cuál es la mejor mejor clusterización esto lo declaro como non o ahorita lo declaro como nulo porque todavía no lo sé y aquí es donde empiezo chicos a a probar cuál?
+1:17:57
+1 hora 17 minutos 57 segundos
+De todas esas configuraciones es el mejor resultado para el K means. Entonces utilizo distancia, que como les digo distancia no la voy a utilizar. De hecho aquí aquí aquí es algo erróneo. El caballo sí que es este el KY el init. Entonces ven que aquí estoy haciendo una búsqueda a fuerza bruta, porque voy a probar todos los posibles valores que existan en K al mismo tiempo que hace combinaciones con el parámetro de init.
+1:18:26
+1 hora 18 minutos 26 segundos
+Entonces aquí dice modelo va a ser igual a camins número Clúster dónde sale ese número clúster de aquí K vale que el K vale de dónde sale de esta de esos de este doctor que acabamos de definir init también de dónde sale de este init o k más iteración también por aquí lo tenemos n init es no me recuerdo cuál era el cuál, cuál parámetro era este runam state y el tipo de algoritmo que el algoritmo.
+1:18:58
+1 hora 18 minutos 58 segundos
+Aquí tampoco lo estoy tuneando, pero el algoritmo sí debería meterlo acá. Debería meterlo aquí en algún algún otro vector, porque el algoritmo si es interesante tunearlo bueno, entonces muchachos, bueno, aquí ahora sí hago el predic, le pongo labels igual a modelo. Fit predic y le paso los datos y aquí es donde empiezo a buscar a calcular muchachos el score.
+1:19:24
+1 hora 19 minutos 24 segundos
+Que el score aquí parece que el score sí le puedo pasar la distancia o la métrica distancia incluida en Manhattan con sin. Bueno, aquí sí parece que sí, sí lo necesitaba. Sí, lo necesitaba porque necesito calcular el índice suret. Entonces bueno, aquí calculo el índice suret y aquí muchachos es donde yo empiezo a guardar el índice suret y la mejor configuración del modelo y ya cuando lo tenga lo único que hago es imprimir la mejor configuración.
+1:19:53
+1 hora 19 minutos 53 segundos
+Que es mejor config que es este que tenía aquí, que yo lo había declarado como nulo, ahora sí, como ahora sí ya tengo. Va a imprimir la mejor configuración con un sillet score igual a el mejor índice sillette que yo encontré en este resultado. Ese es muchacho, más o menos el proceso del torneo de Hiperparámetros para algoritmos no supervisados que en este caso nos estamos refiriendo a clustering.
+
+
+1:20:20
+1 hora 20 minutos 20 segundos
+¿Van a ver en el siguiente curso que es que es minería de datos avanzado que este proceso está más automatizado? Es un proceso que está más estandarizado porque De hecho ya hay librerías, como por ejemplo Gre, search, random search que nos ahorra todo este montón de código con estos Ford que yo acabo de crear. O K chicos, dos preguntas muchachos.
+1:21:01
+1 hora 21 minutos 1 segundo
+Los voy a dejar pensar si tienen luz ninguna o k muchachos, Ah o k perfecto, listo, Jordi, excelente arian o K perfecto muchachos, chicos, bueno, son las 8:25. H les parece que tomamos el break antes de ver el código.
+1:21:41
+1 hora 21 minutos 41 segundos
+Antes de que profe perdón antes de ver el Código, Ah o K sí, sí, listo, chicos, entonces veámonos a las 8:45. H tomamos 20 minutos listo, muchacho, los vemos.
+1:42:18
+1 hora 42 minutos 18 segundos
+Desde chicos, sí, sí, yo doy mar total con la banderita Argentina, los demás muchachos estamos o k chinges les voy a compartirles aquí el Código, tal vez más o menos para que vayamos a tener 1 segundo lo que vamos a hacer.
+1:43:00
+1 hora 43 minutos
+En la semana 10 hay unos datos que se llaman datos para tarea cluster. Entonces todo lo que yo voy a hacer acá ya es que en Grupo lo hagan, pues ahí 33 personas pueden trabajarlo, ahí ya verán cómo cómo se organizan, sí intercambian conocimientos y bueno, ahí chicos ustedes ven cómo cómo, cómo quieren trabajar, igual pueden hacerlo solo, pero pues ahí les recomiendo que.
+1:43:28
+1 hora 43 minutos 28 segundos
+Que intentan hacerlos en Grupo YY y por lo menos esta el día de hoy podamos podamos tener algo que no hemos tenido durante todo el curso. ¿Entonces chicos, van a trabajar con estos datos que dicen Whine Dead hacer for clustering son de cable, entonces? Bueno, ahí está link, ustedes pueden descargarlos. Estas son las variables que tenemos, alcohol, magnesio.
+1:43:54
+1 hora 43 minutos 54 segundos
+El PH, todas estas variables que son que son las que se miden para poder conocer pues la calidad o o básicamente digamos el perfil de los vinos. Entonces bueno, ustedes van a tener que hacer un algoritmo clostream para para ver qué qué está pasando por acá y ya después de tener los resultados chicos. Bueno, no me molesta que que que se lo metan a G P T para para bueno, porque claramente aquí nosotros no somos expertos para saber si.
+1:44:23
+1 hora 44 minutos 23 segundos
+Si si la combinación de alcohol magnez todas esas otras variables que que bueno, nosotros no. ¿Bueno, no sé, al menos alguien que tenga que una bodega de vinos sabrá qué qué quiere decir todo esto, verdad? Pero si se lo meten a una ahí, a 1 I a solamente para que les interpreten los resultados, pues no hay ningún problema si lo quieren hacer así, porque como les digo, o sea son 13 variables que que yo por ejemplo, no sé si si.
+1:44:51
+1 hora 44 minutos 51 segundos
+Si si por ejemplo el color, la la intensidad del color es bueno o es malo en un vino ni idea, creo que debería ser algo bueno. No sé, estoy bateando, pero pues las demás otras variables son, son ahí más del negocio o k bueno chicos, entonces bueno, aquí yo voy a trabajar con dos algoritmos con el camins y el closet jerárquico.
+1:45:17
+1 hora 45 minutos 17 segundos
+Y vamos a trabajar con dos visualizaciones, el P c a y el gráfico rar, que son básicamente los que me que me, los que me gustan el gender y profesión. Esto yo lo voy a quitar. Esto no, no va aquí en este, en este código, pero lo demás que son variables numéricas sí, no son datos de no son datos del vino que ustedes van a hacer, sino más bien es este data Cell que se llama Shop customer data.
+1:45:45
+1 hora 45 minutos 45 segundos
+Que que aquí muchachos, vamos a tener algunas variables como el género, el año, cuánto gana al año, perdón, la edad, cuánto gana al año aquí dice cuánto gasta del 1 al 10 al 1, 100, perdón, seguramente entre entre más gasta el índice es más alto la profesión de la persona que De hecho la profesión y el y el y el género no lo estoy tomando.
+1:46:14
+1 hora 46 minutos 14 segundos
+Los años de experiencia o la experiencia de trabajo en años y la cantidad de familia. ¿Cuántos miembros de familia tiene ese usuario o esa persona como tal? Entonces eso es lo que estoy tratando de crusterizar entonces chicos. Bueno, aquí utilizo K means y cluster aglomerativo, que De hecho vean que viene cycle Learning. Lo hemos utilizado de de Cyp creo que era.
+1:46:41
+1 hora 46 minutos 41 segundos
+El crosster jerárquico, pero esta vez lo voy a utilizar el the Second Land voy a utilizar p c a voy a utilizar los índices y luets y la parte de la Standard Scanner que siempre es interesante. O sea, siempre es importante estandarizar los datos antes de crusterizar o K bueno, aquí yo preparo los datos, llamo data frame igual a p d punto ritect CB para llamar a los datos.
+1:47:07
+1 hora 47 minutos 7 segundos
+Me quedo solamente con los datos numéricos, que es es la edad, es el es el ingreso anual, es el spending score work experience y Family size o k aquí pues yo lo selecciono, me dejó solamente esos datos, pongo features que son las columnas igual a las columnas de de ese de ese datos SET y aquí es donde ya empiezo a estandarizarlos, que es donde empieza a estandarizar los datos. Llamo a esa estandarización igual a X.
+1:47:36
+1 hora 47 minutos 36 segundos
+Que va a ser igual a estándar scaler. Fit, transfer y de paso los datos de de los valores. De hecho esto ni siquiera lo estoy utilizando, no sé por qué lo puse. Ah, bueno aquí lo puse acá ya lo estoy utilizando para esto, entonces chicos, bueno, aquí me sale todas las variables an o income spending score, bueno esto esto no va como les digo todo esta parte de.
+1:48:03
+1 hora 48 minutos 3 segundos
+De las profesiones las estoy ignorando, De hecho en x las estoy ignorando, salen en DF, pero en x las estoy ignorando. De hecho esto debería ser DFY no DF fit o K co de yambou muchachos, aquí programo la misma clase para el co de yambou. Aquí les hago un poquito más de de código solamente para para poner algunas líneas de de referencias y tal vez.
+1:48:31
+1 hora 48 minutos 31 segundos
+Donde el Código codo de Jambou empieza a tener como una un punto de inflexión. Donde no baja tanto. Ese punto de inflexión es cuatro, entonces debería utilizar cuatro, posiblemente cuatro, cuatro clusters. Y aquí es donde empieza la parte el tuneo. Voy a tunear primero el camins, entonces chicos, vean que acá voy a guardar resultados los resultados y aquí es donde empiezo a utilizar Camins, camins. ¿Cuáles son los hiperparámetros que voy a Tunear?
+1:49:01
+1 hora 49 minutos 1 segundo
+Por un lado vamos a ver este era este era, si no sé si estoy mal, el init, que es como inicializar los centroide por forma de Camins, Plot Plose o de forma random este que es el n init. ¿Que si no recuerdo cuál era este parámetro? Para ser muy honesto, bueno, el Max ITER sí. ¿Cuántas iteraciones va a llegar al algoritmo y cuál tipo de algoritmo va a utilizar?
+1:49:31
+1 hora 49 minutos 31 segundos
+Creo que habían 3, si no soy malo cuatro, aquí solamente voy a tunear dos. ¿Voy a buscar entre todas las configuraciones, cuál es aquella que me mejora el índice sirue? Básicamente entonces bueno, aquí en labels pongo labels igual a camins. Fit, perdic y aquí chicos empiezo pues a a a a recoger los resultados, el modelo kaming, los hiperparámetros, el índice suret. Vean que aquí estoy ahora sí utilizando el índice suret.
+1:50:00
+1 hora 50 minutos
+¿Y labels. Copy, que es básicamente los resultados de Del algoritmo o k así es como se hace el tuneo o el tunning para probar cuál de todos los hiper parámetros de este modelo me devuelve un mejor índice sivet eso ustedes van a tener que llevárselo?
+1:50:28
+1 hora 50 minutos 28 segundos
+Y el y el closet y jerárquico con muchachos que tenían el closet y jerárquico, el criterio de nazi War complete Arts. De hecho que me hace falta 1, que es el salto mínimo no importa, y la métrica de la distancia que se crean Manhattan, cocin. ¿Y aquí? Pues aquí parece ser que le pongo que si es igual a War.
+1:50:54
+1 hora 50 minutos 54 segundos
+YY si no es la más la métrica de clidiana, entonces la bueno parece ser que aquí la la el criterio enlace of War solamente funciona con la distancia de clidiana. Entonces bueno, aquí dice que bueno para para para white, la combinación de todas las demás distancias solamente va a ser con clidiana, eso es básicamente lo que quiere decir, pero complete sí va a funcionar todas las demás funciones de distancia. Eso es lo que quiere decir esta parte del Código.
+1:51:20
+1 hora 51 minutos 20 segundos
+Entonces chicos, aquí empiezo a hacer exactamente lo mismo, empiezo a llamar crossing jerárquico es igual a Crosstenienal Conglomerativo le pongo los diferentes hiperparámetros que estoy aquí definiendo. Vean que esto es todo, todo es un for, lo cual significa que va a ir iterar todo esto va a ir iterar a través de esos ciclos hasta encontrar el mejor y aquí es donde pongo labels igual a crossing jerárquico. Feed, predick.
+1:51:45
+1 hora 51 minutos 45 segundos
+Y aquí chicos, hago exactamente lo mismo, recojo los resultados resultados. Pen, el modelo que es el jerárquico, cuáles son los hiperparámetros que va a ser el criterio enlace y la métrica que es la distancia o k el índice site igual y los debils que son los resultados del proyecto. Configuraciones evaluadas aquí son 43 y antes eran o K.
+1:52:13
+1 hora 52 minutos 13 segundos
+Ah, bueno, esos resultados son en general. Entonces, qué quiere decir que dentro del del croster jerárquico y el clustering de Camins se evaluaron 43 posibles resultados entre los dos algoritmos. Ránking del mejor modelo. ¿Aquí lo único que hago, muchachos, es ordenar esto de forma ascendente, Eh? Perdón, de forma descendente. Entonces aquí me dice, por ejemplo, chicos, que el camins.
+
+
+
+1:52:44
+1 hora 52 minutos 44 segundos
+Casi que todos los del K means son los que tienen el mejor resultado para ver acá aquí el silote es exactamente lo mismo. Entonces aquí no varía tanto. Bueno, todos me dan el mismo, el mismo valor, por lo menos todos estos que tiré por acá. Pero dice mejor, mejor, mejor y mejor algoritmo por modelo para el closing jerárquico.
+1:53:12
+1 hora 53 minutos 12 segundos
+La mejor combinación es el criterio enlace abrach y la distancia cocin. Y en camins me dice que el init es Camins Plus Plus, el NI Net 10 y el Max Shipper. Bueno, aquí ya no me no me dejó verlo, pero bueno, aquí ya vemos por lo menos los dos parámetros que son los que maximizaron.
+1:53:41
+1 hora 53 minutos 41 segundos
+¿Ese índice se ve para acá? Ah, bueno, aquí ahora sí lo tenemos. Vean acá el mejor modelo camins 4 K 4 plosters el índice Siglet fue cero 14 los parámetros fue Init Camins Plus. Plos n Init igual a 10 Max Iteración es 100 y el algoritmo fue este.
+1:54:07
+1 hora 54 minutos 7 segundos
+¿El tamaño de clústers cuántos clústeres? Bueno, cuántos usuarios por clústers hay son muy parejos y aquí empezamos a graficar los índices surets. Los resultados son difíciles, o sea este data SET es bastante complicado. De clusterizar de viaje se ve si ven el índice suret, De hecho es menor a 0.4 muy complicado.
+1:54:37
+1 hora 54 minutos 37 segundos
+De hecho, veámoslo acá, pero ven, es bastante complicado, o sea, pareciera ser que ni siquiera se puede clusterizar este data SET. Hay mucha variedad en los resultados, pero bueno, algo se puede hacer, algo se hizo y los resultados fueron gastos. Me sale cuatro, clusteres, cluster cero, cluster 1, cluster dos y cluster 3. Aquí me sale que el cluster número 1 es el cluster que más gasta el dinero.
+1:55:06
+1 hora 55 minutos 6 segundos
+Ven que interesante eso son los que más gastan y son los que menos ingresos amables tienen, menos experiencia de trabajo y menos edad. ¿Será que lo estoy leyendo bien? Spending score spending score.
+1:55:35
+1 hora 55 minutos 35 segundos
+¿Es que no sé si entre más grande se ha de ser Penny score, quiere decir que gana más gastos? ¿Es lo que quiero saber, bueno, no sé, bueno, si es así está como bueno, no sé, o sea, sí, sí sé que hay mucha gente que gasta mucho dinero y viven súper endeudados, pero bueno, no sé, no sé qué va bajo qué contexto es esto? Bueno, te llamamos otro clúster que es por ejemplo el clúster número 3, que parece ser que es un buen clúster.
+1:56:04
+1 hora 56 minutos 4 segundos
+Son los que ganan más dinero, tienen más edad y tienen una familia más voluminosa. Ahí son. Son ya personas con una estabilidad financiera más y una edad avanzada y con una buena estabilidad financiera. El cluster número dos creo que sí. Son los que tienen más años de experiencia. Ingreso anual también es bastante bueno, igual que el que el cluster número 3.
+1:56:34
+1 hora 56 minutos 34 segundos
+Y las edades también son personas con bastante dato y por último, el cluster número cero, que son personas solamente con una edad alta. Bueno. Estos son los cuatro perfiles de esa de ese data SET Work experience. Caso número cero.
+1:57:04
+1 hora 57 minutos 4 segundos
+Este cluster número cero son los que tienen mayor experiencia laboral. Los que tienen menos experiencia laboral son del cluster número dos. Estos están acá, los que tienen mayor ingreso son los del cluster número 3, aquí lo ven spening score son los del cluster número 1.
+1:57:31
+1 hora 57 minutos 31 segundos
+Y los que gastan menos son del cluster número dos, que son a la vez aquellos que tienen más edad. Parece. Los otros que gastan menos son del cluster número 1. ¿Eh? Perdón, al revés. Los que tienen mayor experiencia laboral son del cluster número 1, seguidos del cluster número dos.
+1:57:58
+1 hora 57 minutos 58 segundos
+Bueno, primero el cruce del número dos son los que los que tienen menor experiencia laboral y el cruce del número 1 son aquellos los que le sigan el cruce del número dos. ¿Es así? Bueno, y aquí me da un resumen muchachos, pues las series finales mejor mejor método para elegir. Bueno, Code yambo, solamente utilicé Code yamboo, bueno este no este este resultado parece que no lo corrí bien para ver un segundito muchachos.
+1:58:32
+1 hora 58 minutos 32 segundos
+Customer customers customers VU s B qué raro porque no está en el puerto. Lo voy a apuntar aquí voy a volver a correrlos. No sé si esto me vaya a durar tanto. La verdad, vamos a ver.
+1:59:15
+1 hora 59 minutos 15 segundos
+Aquí me dice do Miss is not define, pues toma lo copo o yambu. Bueno, y lo suben chicos mal, exactamente lo mismo que vimos antes. Entonces aquí claramente el Código se va a pegar, o sea, no se no se asusten si se pega acá, porque pues claramente está evaluando todos los posibles clústeres y bueno, aquí ya me da el resultado, ahora sí.
+1:59:50
+1 hora 59 minutos 50 segundos
+Ahora sí, es que antes me decía que dos, entonces no, no era, seguramente utilice otro dato SET y lo dejé ahí cargado y no lo no, lo no lo reemplacé, pero ahora sí, K igual a óptimo es igual a cuatro, mejor algoritmo, K Means mejor siluet 0.14 y los mejores hiperparámetros fueron esos, ahora sí, evaluando absolutamente todo, chicos, dudas, preguntas, muchachos.
+2:00:20
+2 horas 20 segundos
+Recuerden que van a hacerlo, ustedes van a hacer este mismo proceso ahorita y les voy a dar unos unas unos 30 minutos más o menos 2 preguntas si pues si no.
+2:00:47
+2 horas 47 segundos
+Pues de mi parte está bastante claro. Solamente quiero ver que me arroja una vez que las frase y a ver si si me encuentro algo así que no entienda o k sí, sí, vamos a ver chicos, Jordi, vamos a a dedicarle media hora igualmente, como esto no va a ser calificado, pero quiero que trabajen ustedes, que tengan el chance de trabajar en grupo.
+2:01:13
+2 horas 1 minuto 13 segundos
+Que interactúen con ustedes hasta las 9:30. H, démosle 25 minutos, hagan esto, hagan esto mismo, no creo que les vaya a durar tanto. Pruébenlo con este data SET de vinos y a las 9:30 H los vuelvo a llamar para ver cómo les fue. Si tienen dudas y preguntas, les parece listo chicos, entonces vamos a ver, voy a crear. Bueno, vamos a ver cuántos son.
+2:01:44
+2 horas 1 minuto 44 segundos
+Son por qué me por qué se me salieron chicos, se me salieron ahí tenía más, ahora tengo 18, voy a tener que crear 3 salas muchachos, EH, perdón para dar con tu amigo, 8 salas, 6 salas, perdón, voy a crear 6 alas y los voy a mandar aleatoriamente. Muchachos, listo.
+2:02:17
+2 horas 2 minutos 17 segundos
+¿Vais a sienten de preguntas cualquier cosa?
+2:06:52
+2 horas 6 minutos 52 segundos
+¿Hola profe, cómo está? Me escucha profe, vieras que no estamos encontrando el archivo está en la página para el día de hoy, está en la semana, no está en la semana 10, en la semana 10. ¿Cómo se llaman los archivos? ¿Evaluación de clustering, perfecto gracias, está en la semana 10, evaluación de Clustering y el Código se llama código literal cómo un código se llama?
+2:07:16
+2 horas 7 minutos 16 segundos
+O algo sí o k excelente me puede volver a mandar al Breakout. Ah, bueno, yo me puedo unir aquí listo. Gracias o K o K.
+
+
+2:30:00
+2 horas 30 minutos
+Chicos como los muchachos. Bueno, ahí vi que cómo se llama, quién esperamos, pero los veron chicos, creo que estaba Andrew y no me acuerdo. ¿Quién más sí va a ser, lo hiciste con nosotros? Un toquecito.
+2:30:27
+2 horas 30 minutos 27 segundos
+¿Ah o K Daniel, Con quién estaba Daniel, con con Andrew, verdad? Y no me acuerdo quién más conmigo profe, creo Ah o K o K o K quién estaba presentando que era Jordi, estaba pensando yo profe, Ah o k o k o k o k perfecto o k chicos, bueno, el grupo de Daniel, Ander y Jordan chicos, ellos lo resolvieron.
+2:30:56
+2 horas 30 minutos 56 segundos
+Ellos, bueno, les dio chance para para interpretar los productores de muchachos. Si lo que hicimos fue lo corrimos a través del Clot para que nos hiciera una interpretación. Pero es una por lo que estoy viendo. ¿Es una interpretación muy, muy técnica, o sea, muchos técnicos, muchas palabras de flavanoides, prolina y esas esas cosas, verdad? Entonces los separa en grupos, pero si tendríamos que digamos entender sobre el tema para poder hacer el análisis.
+2:31:26
+2 horas 31 minutos 26 segundos
+Ah o K o K o K sí, sí, es que es bastante técnico, solo un catador de vinos, como dijo, no recuerdo quién fue el que lo dijo, como dijo Santiago, sí, solo un catador de vinos, pues entiende ese contexto, pero en el en el chat pusimos lo que nos dió clau como respuesta o K o K perfecto puedes presentar un segundito, yo creo que en el P c a y solamente para que los demás compañeros vean cómo queda.
+2:31:55
+2 horas 31 minutos 55 segundos
+¿Claro, voy, sí se está yendo, verdad? Sí, si gustas te vas al PCI, ese es el PC. I ese es el PCI, ese es el PCI. Sí, el despegue de costland, pero había otro no.
+2:32:21
+2 horas 32 minutos 21 segundos
+¿Déjenme ver, este turing es el código de Comboo, es que ese es el código de de customer SHOP? Sí, no sé no, porque en ese sí fue donde yo puse el de vino. Ven aquí, Ah no, sí, es el otro, sí, seguro, eso aquí dice notebook presentación creo, no sé, de momento la otra persona ahí que tienes dice Notebook.
+2:32:51
+2 horas 32 minutos 51 segundos
+Ah, sí, ya ya vi, sí, como estoy presentando un lado tan pequeño. Ajá, no, esto no, eso es otra cosa, no, pero no sé qué pasó conmigo, creo que lo reinicié y no se me guardó. Ah, Ah, sí, sí, no guardé entonces yo reinicié y se me borró todo, Ah o K o k bueno, no te preocupes o k bueno, igual yo aquí tengo la foto güey, la voy a pasar por el.
+2:33:19
+2 horas 33 minutos 19 segundos
+Ah o K, sí, sí, es que lo que sucede es que como como es un código que yo corri, bueno, yo soy el autor del código, entonces toda la o sea, lo que tienen que hacer es como copiar el el notebook y abrir en otro en otro servidor básicamente o k Ah chicos, pero ahí Andrew nos pasó. ¿Cómo queda? Ah, bueno, ese es el.
+2:33:48
+2 horas 33 minutos 48 segundos
+¿El gráfico rar One igualmente nos funciona, y ahí sí sé cómo cómo se conforman los 3 Clusteres, pero como les mencionaba antes, o sea por ejemplo, el Cruster 1, o sea, cómo cómo interpretar eso, o sea, sobre alguien que que sea un experto en Vinus, pues va a poder interpretar eso, verdad? Cruster cero el cruster dos, bueno, básicamente así queda muchachos. Igualmente hay un gráfico que que sacaron los compañeros de 1 P. C A.
+2:34:19
+2 horas 34 minutos 19 segundos
+¿En donde se ve el P c a Bueno, donde se ve perdón al revés, los clusters dentro del P c a cómo cómo se conforman entonces? Bueno, el resultado va a ser un poco mejor que que el de SAP customer data, que fue el dato SET que probamos en clase o k listo, muchachos, dudas, preguntas chicos, no profe de mi parte bastante claro, nada más algo que quisiera agregar es algo que conversé con Luis durante la.
+2:34:51
+2 horas 34 minutos 51 segundos
+Digamos estamos procesando los datos. Nosotros los pudimos hacer todo. Lo único que quisiera agregar es que digamos desde la perspectiva de mi experiencia en trabajos que tuve. Por ejemplo, los clusters 0, 1 y 2 se pueden interpretar de diferentes maneras. El cero son los vinos con menor densidad de alcohol, o sea, son más suaves. Los unos son los que son, digamos, los más o menos los que son como.
+2:35:15
+2 horas 35 minutos 15 segundos
+Ahí, como para los que ya se incluyeron un poquito más en El Mundo del vino y el closet, dos ya son como los más fuertes, más robustos para el paladar. O sea, no son para para iniciales. Entonces, en este caso los vinos que se ven aquí son más que todos. Vinos tintos, si no me equivoco. Sin embargo, me gustaría intentar hacer a comparación incluso con vinos blancos, que tienden a tener una densidad de alcohol menor. Sin embargo, al final en paladar se sienten a veces casi igual de fuertes.
+2:35:44
+2 horas 35 minutos 44 segundos
+Dependen mucho del tipo de uva, sin embargo, como les digo, el cero es el más suave, por decirlo así es como el ligado, el 1 es como ya un poquito más alcohol que que ligue y ya el último es oro. Si es trai como le llaman, entonces es es la interpretación que yo le puede dar a los datos desde desde lo que conozco de vinos. Ah o K genial, Joseba. Muchísimas gracias por esa interpretación muy completa, excelente, excelente o k chicos súper bien, muy bien.
+2:36:13
+2 horas 36 minutos 13 segundos
+Esos muchachos, si Dios lo permiten, nos estaríamos viendo el próximo martes. Esta semana, si no puedo alecer en chicos porque tengo que supervisar un examen, entonces si Dios lo permite, nos vemos la próxima clase el martes y vamos a ver qué son las inmulaciones de Morticarlo y vamos a aplicarlo sobre un contexto de Finanzas. Entonces chicos, quedamos así, dudas, preguntas muchachos, si no nos estaríamos viendo el próximo martes.
+2:36:40
+2 horas 36 minutos 40 segundos
+Profe, hasta luego gracias profe, perdón, entonces este digamos las tareas y todos los trabajos entonces quedarían para esta semana revisados o sí, yo voy a empezar a revisarlos, correcto. Igualmente si alguien no ha entregado todavía el el, el, las tareas, yo la yo le doy otra revisada casi que a final de curso perfecto profe, muchísimas gracias, sí, con gusto.
+2:37:11
+2 horas 37 minutos 11 segundos
+¿Hasta luego qué me decía Roberto, perdón no, que si le mandamos esto que hicimos ahorita no, no, no hace falta nada más, quería que pues ustedes hicieran el ejercicio nada más, no, no, no hace falta o k listo no? Y lo de lo de las para la semana pasada lo subimos al en la semana, no es si no estoy mal, subí esta sí en la semana no es la semana, no es.
+2:37:39
+2 horas 37 minutos 39 segundos
+Está el campus que el campo que dice tarea caso H o I básicamente así es como se llama h o I o K y eso lo subimos todos o subimos sólo 1 por Grupo, 1 por el Grupo, está llegando por grupo o k listo. Gracias mami, listo, listo, gracias por hasta luego chicos.
+
