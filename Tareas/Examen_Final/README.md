@@ -39,8 +39,8 @@ Los scripts en `scripts/` reutilizan las clases y funciones vistas en el materia
 
 - `graficos_cuantitativos.py` → clase `GraficosCuantitativos`.
 - `pca_analysis.py` → clase `PCAAnalysis`.
-- `kmeans_utils.py` → funciones `codo_jambu`, `silhouette_kmeans`, `bar_plot`, `bar_plot_detail`, `radar_plot`, `biplot_pca` de los notebooks de Kmeans y Evaluacion clustering.
-- `clustering_jerarquico_utils.py` → funciones `agregaciones`, `altura_corte`, `plot_dendrograma`, `plot_dendrograma_cortes`, `etiquetas_jerarquicas` del notebook de Clustering jerarquico.
+- `kmeans_utils.py` → funciones `codo_jambu`, `silhouette_kmeans`, `bar_plot`, `bar_plot_detail`, `radar_plot`, `biplot_pca` de los notebooks de Kmeans y Evaluacion Clustering.
+- `clustering_jerarquico_utils.py` → funciones `agregaciones`, `altura_corte`, `plot_dendrograma`, `plot_dendrograma_cortes`, `etiquetas_jerarquicas` del notebook de Clustering Jerarquico.
 
 ## Ejecución
 
